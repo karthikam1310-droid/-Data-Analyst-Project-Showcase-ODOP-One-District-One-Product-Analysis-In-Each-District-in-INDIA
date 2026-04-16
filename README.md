@@ -8,6 +8,7 @@ To evaluate district-wise product performance, identify high-performing areas, a
 
 
 📊 Key Metrics Analyzed
+
 • Total Revenue Generated: ₹12.5M+
 • Total Quantity Sold: 85,000+ units
 • Top 5 Products Contribution: ~68% of total revenue
@@ -34,6 +35,7 @@ A steady 12–15% monthly growth trend was observed, with noticeable spikes duri
 
 
 📈 Dashboard Highlights (Power BI)
+
 • KPI Cards showing Revenue, Growth %, and Top Products
 • Dynamic Top N filtering (Top 5 / Top 10 Products)
 • District-wise performance map visualization
@@ -42,6 +44,7 @@ A steady 12–15% monthly growth trend was observed, with noticeable spikes duri
 
 
 🛠️ Tools & Technologies Used
+
 • SQL (Data Cleaning & Advanced Queries)
 • Power BI (Dashboard Development & DAX)
 • Excel (Preprocessing)
