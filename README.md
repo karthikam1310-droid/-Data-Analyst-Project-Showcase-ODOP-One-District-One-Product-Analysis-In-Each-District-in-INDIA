@@ -19,12 +19,16 @@ To evaluate district-wise product performance, identify high-performing areas, a
 💡 Key Findings & Insights
 ✅ Top Performing Products
 The top 5 products contributed approximately 68% of overall revenue, indicating a strong concentration of demand in a few key products. This suggests an opportunity to scale these products further.
+
 ✅ High Revenue Districts
 Top-performing districts generated nearly 20–22% of total revenue, highlighting regional demand concentration and better market penetration.
+
 ✅ Category Contribution Analysis
 The leading product category contributed around 45% of total sales, while the lowest category contributed less than 10%, indicating potential gaps in promotion or demand.
+
 ✅ Underperforming Regions
 Nearly 30% of districts contributed less than 10% of total revenue, suggesting untapped potential and the need for targeted strategies.
+
 ✅ Trend Analysis
 A steady 12–15% monthly growth trend was observed, with noticeable spikes during specific months, indicating seasonal demand patterns.
 
