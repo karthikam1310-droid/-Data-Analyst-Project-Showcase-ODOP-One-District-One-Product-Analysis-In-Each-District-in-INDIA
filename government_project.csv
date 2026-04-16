@@ -1,0 +1,1243 @@
+State,Product,District,LGD Code,Category,Sector,GI Status,Department
+Andaman and Nicobar Islands,Coconut & Coconut based products,Nicobars,603,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Andaman and Nicobar Islands,Fisheries/Marine products,North and Middle Andaman,632,Primary,Marine,No,Department of Fisheries
+Andaman and Nicobar Islands,Marine Products,South Andamans,602,Primary,Marine,No,Department of Fisheries
+Andhra Pradesh,Coffee (Araku),Alluri Sitarama Raju,745,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Andhra Pradesh,Bamboo Craft,Alluri Sitarama Raju,745,Secondary,Handicraft,No,DC Handicraft
+Andhra Pradesh,Rock Bee Honey,Alluri Sitarama Raju,745,Tertiary,Food Processing,No,Ministry of Agriculture & Farmers' Welfare
+Andhra Pradesh,Etikoppaka Lacquerware/Wooden Toys,Anakapalli,744,Primary,Handicraft,Yes,DC Handicraft
+Andhra Pradesh,Palm Leaf,Anakapalli,744,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Andhra Pradesh,Payakaraopet Silk Sarees,Anakapalli,744,Tertiary,Handloom,No,DC Handloom
+Andhra Pradesh,Cotton/Jean Pants,Anantapuram (Anantapur),502,Primary,Textile,No,Ministry of Textile
+Andhra Pradesh,Dharmavaram Silk Sarees,Ananthpuram (Anantapur),502,Secondary,Handloom,Yes,DC Handloom
+Andhra Pradesh,Cotton / Jean Pants,Annamayya (Rayachoty),753,Primary,Textile,No,Ministry of Textile
+Andhra Pradesh,Red Sander & Wood Carvings,Annamayya (Rayachoty),753,Secondary,Handicraft,No,DC Handicraft
+Andhra Pradesh,Raja Rani Dolls,Annamayya (Rayachoty),753,Tertiary,Handicraft,No,DC Handicraft
+Andhra Pradesh,Applique Work,Annamayya (Rayachoty),753,Others,Handloom,No,DC Handloom
+Andhra Pradesh,Mandanapalle Silk Sarees,Annamayya (Rayachoty),753,Others,Handloom,No,DC Handloom
+Andhra Pradesh,Granite Cutting and Polishing,Bapatla,750,Primary,Manufacturing,No,MSME
+Andhra Pradesh,Cotton Bags,Bapatla,750,Secondary,Manufacturing,No,MSME
+Andhra Pradesh,Chirala Silk Sarees,Bapatla,750,Tertiary,Handloom,No,DC Handloom
+Andhra Pradesh,Venkatagiri Sarees,Chittoor,503,Primary,Handloom,Yes,DC Handloom
+Andhra Pradesh,Mango Pulp,Chittoor,503,Secondary,Food processing,No,Ministry of Food Processing
+Andhra Pradesh,The Glass Beads,Chittoor,503,Tertiary,Handicraft,No,DC Handicraft
+Andhra Pradesh,Kollangantu Tie &Dye Check Lungies,Chittoor,503,Others,Textile,No,Ministry of Textile
+Andhra Pradesh,Teracotta,Chittoor,503,Others,Handicraft,No,DC Handicraft
+Andhra Pradesh,Natural banana fibres,Dr BR Ambedkar Konaseema,747,Others,Manufacturing,No,MSME
+Andhra Pradesh,Bandaru Lanka Sarees,Dr BR Ambedkar Konaseema,747,Others,Handloom,No,DC Handloom
+Andhra Pradesh,Angara Sarees,Dr BR Ambedkar Konaseema,747,Others,Handloom,No,DC Handloom
+Andhra Pradesh,Coconut & Coir,Dr BR Ambedkar Konaseema,747,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Andhra Pradesh,Shrimp,Dr. B. R. Ambedkar Konaseema,747,Secondary,Marine,No,Department of Fisheries
+Andhra Pradesh,Oil & Natural Gas,Dr. B. R. Ambedkar Konaseema,747,Tertiary,Others,No,Ministry of Petroleum & Natural Gas
+Andhra Pradesh,Pasalapudi Sarees,Dr BR Ambedkar Konaseema,747,Others,Handloom,No,DC Handloom
+Andhra Pradesh,"Fruit Based Food Products (Pickles, Mango Jelly, Fruit Pulp, Cashew nuts, Lemon extracts)",East Godavari,505,Primary,Food processing,No,Ministry of Food Processing
+Andhra Pradesh,Ratnam Pens,East Godavari,505,Secondary,Manufacturing,No,MSME
+Andhra Pradesh,White Wood Birds,East Godavari,505,Tertiary,Handicraft,No,DC Handicraft
+Andhra Pradesh,Pulagurta Clothing Shirting & Sarees,East Godavari,505,Others,Textile,No,Ministry of Textile
+Andhra Pradesh,Muramunda Cotton Shirting & Sarees,East Godavari,505,Others,Textile,No,Ministry of Textile
+Andhra Pradesh,Veeravaram Silk Sarees,East Godavari,505,Others,Handloom,No,DC Handloom
+Andhra Pradesh,Dulla Sarees,East Godavari,505,Others,Handloom,No,DC Handloom
+Andhra Pradesh,Gold Jewellery,Eluru,748,Primary,Handicraft,No,DC Handicraft
+Andhra Pradesh,Hand Knotted Carpet weaving,Eluru,748,Secondary,Handicraft,No,DC Handicraft
+Andhra Pradesh,Walking Sticks,Eluru,748,Tertiary,Handicraft,No,DC Handicraft
+Andhra Pradesh,Nuziveedu Veena,Eluru,748,Others,Handicraft,No,DC Handicraft
+Andhra Pradesh,Eluru Cotton Sarees,Eluru,748,Others,Handloom,No,DC Handloom
+Andhra Pradesh,Chillies,Guntur,506,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Andhra Pradesh,Bronze Casting,Guntur,506,Secondary,Manufacturing,No,MSME
+Andhra Pradesh,Mangalagiri Sarees and Fabric,Guntur,506,Tertiary,Handloom,Yes,DC Handloom
+Andhra Pradesh,Uppada Jamdani Sarees,Kakinada,746,Primary,Handloom,Yes,DC Handloom
+Andhra Pradesh,"Peddapuram Silk Dhotis, Upper and shirtings",Kakinada,746,Secondary,Textile,No,Ministry of Textile
+Andhra Pradesh,Kalamkari Block Printing,Kakinada,746,Tertiary,Handloom,No,DC Handloom
+Andhra Pradesh,Cashew Kernel,Kakinada,746,Others,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Andhra Pradesh,Machilipatnam Kalamkari,Krishna,510,Primary,Handloom,Yes,DC Handloom
+Andhra Pradesh,Kalamkari Block Printing,Krishna,510,Secondary,Handloom,Yes,DC Handloom
+Andhra Pradesh,Pedana kalamkari Fabrics,Krishna,510,Tertiary,Textile,Yes,Ministry of Textile
+Andhra Pradesh,Bandar / Polavaram Sarees,Krishna,510,Others,Handloom,No,DC Handloom
+Andhra Pradesh,Gold Jewellery,Krishna,510,Others,Handicraft,No,DC Handicraft
+Andhra Pradesh,Stone carved products,Kurnool,511,Primary,Handicraft,No,DC Handicraft
+Andhra Pradesh,Kodumuru Gadwal Sarees,Kurnool,511,Secondary,Handloom,No,DC Handloom
+Andhra Pradesh,Yemmiganuru Bedsheets,Kurnool,511,Tertiary,Textile,No,Ministry of Textile
+Andhra Pradesh,Allagadda Stone Carving,Nandyal,755,Tertiary,Handicraft,Yes,DC Handicraft
+Andhra Pradesh,Banaganapalli Mangoes,Nandyal,755,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Andhra Pradesh,Nandivargam plain towels & plain lungis,Nandyal,755,Secondary,Textile,No,Ministry of Textile
+Andhra Pradesh,Kondapalli Toys,NTR (Vijaywada),749,Primary,Handicraft,Yes,DC Handicraft
+Andhra Pradesh,Bandar type Resham (Art Silk) Sarees,NTR (Vijaywada),749,Secondary,Handloom,No,DC Handloom
+Andhra Pradesh,Durgi Stone Carving,Palnadu (Narasaraopeta),751,Primary,Handicraft,Yes,DC Handicraft
+Andhra Pradesh,Sattenapalli Bedsheets,Palnadu (Narasaraopeta),751,Secondary,Textile,No,Ministry of Textile
+Andhra Pradesh,Leather Puppets,Palnadu (Narasaraopeta),751,Tertiary,Handicraft,Yes,DC Handicraft
+Andhra Pradesh,Spice Products,Palnadu (Narasaraopeta),751,Others,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Andhra Pradesh,Bobilli Veena,Parvathipuram Manyam,743,Primary,Handicraft,Yes,DC Handicraft
+Andhra Pradesh,Bobilli Sarees,Parvathipuram Manyam,743,Secondary,Handloom,No,DC Handloom
+Andhra Pradesh,Severa Adivasi Paintings,Parvathipuram Manyam,743,Tertiary,Handicraft,No,DC Handicraft
+Andhra Pradesh,Rice,Parvathipuram Manyam,743,Others,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Andhra Pradesh,Granite (Black Galaxy),Prakasam,517,Primary,Manufacturing,No,MSME
+Andhra Pradesh,Ethamukkala Check Lungis,Prakasam,517,Secondary,Textile,No,Ministry of Textile
+Andhra Pradesh,Udayagiri Wooden Cutlery,SPSR Nellore,515,Primary,Handicraft,Yes,DC Handicraft
+Andhra Pradesh,Patturu Cotton Silk Sarees,SPSR Nellore,515,Secondary,Handloom,Yes,DC Handloom
+Andhra Pradesh,Silk Sarees,Sri Sathya Sai (Puttaparthi),754,Primary,Handloom,No,DC Handloom
+Andhra Pradesh,Leather Puppets,Sri Sathya Sai (Puttaparthi),754,Secondary,Handicraft,Yes,DC Handicraft
+Andhra Pradesh,Dharmavaram Silk Sarees,Sri Sathya Sai (Puttaparthi),754,Tertiary,Handloom,Yes,DC Handloom
+Andhra Pradesh,Ponduru Cotton Sarees,Srikakulam,519,Primary,Textile,No,Ministry of Textile
+Andhra Pradesh,Budithi Brassware,Srikakulam,519,Secondary,Handicraft,Yes,DC Handicraft
+Andhra Pradesh,Ponduru Dhoti & Shirtings,Srikakulam,519,Others,Textile,No,Ministry of Textile
+Andhra Pradesh,Jute Works,Srikakulam,519,Others,Handicraft,No,DC Handicraft
+Andhra Pradesh,Cashew Kernels,Srikakulam,519,Tertiary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Andhra Pradesh,Srikalahasthi Kalamkari fabrics/Handicrafts,Tirupati,752,Primary,Handloom,Yes,DC Handloom
+Andhra Pradesh,Venkatagiri Cotton Sarees,Tirupati,752,Secondary,Handloom,Yes,DC Handloom
+Andhra Pradesh,Pen kalamkari,Tirupati,752,Tertiary,Handloom,Yes,DC Handloom
+Andhra Pradesh,Wood Carvings,Tirupati,752,Others,Handicraft,No,DC Handicraft
+Andhra Pradesh,Lord Venkateswara Swamy Photo,Tirupati,752,Others,Handicraft,No,DC Handicraft
+Andhra Pradesh,Chennuru Silk Sarees,Tirupati,752,Others,Handloom,No,DC Handloom
+Andhra Pradesh,Seafood Cluster,Visakhapatnam,520,Primary,Marine,No,Department of Fisheries
+Andhra Pradesh,Basket Weaving,Visakhapatnam,520,Secondary,Handicraft,No,DC Handicraft
+Andhra Pradesh,Mango Jelly,Vizianagaram,521,Primary,Food processing,No,Ministry of Food Processing
+Andhra Pradesh,Bobilli Veena,Vizianagaram,521,Secondary,Handicraft,Yes,DC Handicraft
+Andhra Pradesh,Design Bedsheets,Vizianagaram,521,Tertiary,Textile,No,Ministry of Textile
+Andhra Pradesh,Processed Prawn & Shrimp,West Godavari District,523,Primary,Marine,No,Department of Fisheries
+Andhra Pradesh,Veemavaram Light Weight Sarees,West Godavari District,523,Secondary,Handloom,No,DC Handloom
+Andhra Pradesh,Crochet Lace,West Godavari District,523,Tertiary,Handicraft,No,DC Handicraft
+Andhra Pradesh,Narspur Crochet Lace,West Godavari District,523,Others,Handicraft,Yes,DC Handicraft
+Andhra Pradesh,Vonipenta Brass,YSR Kadapa,504,Secondary,Handicraft,No,DC Handicraft
+Andhra Pradesh,Madhavaram Sarees,YSR Kadapa,504,Tertiary,Handloom,No,DC Handloom
+Andhra Pradesh,Prodattur Raw (Kora) Silk Shirting,YSR Kadapa,504,Others,Textile,No,Ministry of Textile
+Andhra Pradesh,Barytes & Barium Compounds,YSR Kadapa,504,Primary,Others,No,Ministry of Chemicals & Fertilizers
+Arunachal Pradesh,Large Cardamom,Anjaw,628,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,Areca nut,Changlang,229,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,Kiwi,Dibang Valley,230,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,Orange,East Kameng,231,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,Jaggery,East Siang,232,Primary,Food processing,No,Ministry of Food Processing
+Arunachal Pradesh,Orange,Kamle,718,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,Large Cardamom,Kra Daadi,677,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,Large Cardamom,Kurung Kumey,233,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,King Chilli,Leparada,724,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,Mustard Seed,Lohit,234,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,Bead Necklace,Longding,666,Primary,Handicraft,No,DC Handicraft
+Arunachal Pradesh,Ginger,Lower Dibang Valley,235,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,Turmeric,Lower Siang,719,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,Kiwi,Lower Subansiri,236,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,Turmeric,Namsai,678,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,Ginger,Pakke Kessang,723,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,Turmeric,Papum Pare,237,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,Kiwi,Shi Yomi,725,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,Large Cardamom,Siang,679,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,Chillies,Tawang,238,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,Ginger,Tirap,239,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,Orange,Upper Siang,240,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,Orange,Upper Subansiri,241,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,Apple,West Kameng,242,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Arunachal Pradesh,Pineapple,West Siang,243,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Rice,Bajali,739,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Honey,Baksa,616,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Bell Metal Products,Barpeta,280,Primary,Handicraft,No,DC Handicraft
+Assam,Rice,Barpeta,280,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Tea,Biswanath,705,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Maize,Bongaigaon,281,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Scented and Glutonious Rice,Cachar,282,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Aromatic Rice,Charaideo,708,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Lemon,Chirang,612,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Assam,Vegetables,Darrang,283,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Red Rice,Dhemaji,284,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Chilly,Dhubri,285,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Organic Tea,Dibrugarh,286,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Ginger,Dima Hasao,299,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Banana,Goalpara,287,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Agarwood & Its Derivatives,Golaghat,288,Primary,Manufacturing,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Orthodox tea,Golaghat,288,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Assam,Arecanut,Hailakandi,289,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Jaggery,Hojai,709,Primary,Food processing,No,Ministry of Food Processing
+Assam,Bhoot Jholokia,Jorhat,290,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,"Home Furnishing made of Eri , Muga & Assam Silk, etc.",Kamrup (M),618,Primary,Textile,Yes,Minsitry of Textile
+Assam,Banana,Kamrup(R),291,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Ginger,Karbi Anglong,292,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Assam,Plates and Bowls made of Arecanut Leaf Sheath,Karimganj,293,Primary,Manufacturing,No,MSME
+Assam,Cane & Bamboo Furniture & Decorative Items,Karimganj,293,Secondary,Handicraft,No,DC Handicraft
+Assam,Mushroom,Kokrajhar,294,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Handloom Products of Silk & Cotton,Lakhimpur,295,Primary,Handloom,No,Ministry of Textiles
+Assam,Processed Pork,Lakhimpur,295,Primary,Food processing,No,Ministry of Food Processing
+Assam,Mustard Seeds,Majuli,706,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Maize,Morigaon,296,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Pearl,Nagaon,297,Primary,Handicraft,No,Ministry of Commerce and Industry.
+Assam,Fruits and vegetables,Nagaon,297,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Rice & Rice Products,Nalbari,298,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Rice & Rice Products,Sivasagar,300,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,"Parboiled Rice , Steam Rice & all Rice products",Sonitpur,301,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Processed cashew nuts,South Salamara- Mankachar,707,Primary,Food processing,No,Ministry of Food Processing
+Assam,Honey,Tamulpur,756,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Assam Lemon,Tinsukia,302,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Orthodox Tea (black) and Green Tea,Udalguri,617,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Assam,Eri (cocoon and fabric),Udalguri,617,Secondary,Textile,No,Ministry of Textile
+Assam,Ginger,West Karbi Anglong,710,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Jute,Araria,188,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Makhana,Araria,188,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Mushroom,Arwal,611,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Pumpkin,Arwal,611,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Lemon Grass,Aurangabad,189,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Strawberry,Aurangabad,189,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Banka Silk,Banka,190,Primary,Handloom,No,DC Handloom
+Bihar,Katarni Rice,Banka,190,Secondary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Bihar,Chilli,Begusarai,191,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Maize,Begusarai,191,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Bhagalpur Silk,Bhagalpur,192,Primary,Handloom,Yes,DC Handloom
+Bihar,Jardalu Mango,Bhagalpur,192,Tertiary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Bihar,Manjusha Painting,Bhagalpur,192,Secondary,Handicraft,Yes,DC Handicraft
+Bihar,Applique Work ,Bhojpur,193,Secondary,Handicraft,Yes,DC Handicraft
+Bihar,Bhojpur Painting,Bhojpur,193,Primary,Handicraft,No,DC Handicraft
+Bihar,Rice,Bhojpur,193,Tertiary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Hand Embroidery,Buxar,194,Tertiary,Handicraft,No,DC Handicraft
+Bihar,Mentha,Buxar,194,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Sonachud Rice,Buxar,194,Primary,Handloom,No,DC Handloom
+Bihar,Madhubhani Paintings,Darbhanga,195,Secondary,Handicraft,Yes,DC Handicraft
+Bihar,Makhana,Darbhanga,195,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Bihar,Terracotta,Darbhanga,195,Tertiary,Handicraft,No,DC Handicraft
+Bihar,Bags & Garments,East Champaran,213,Tertiary,Textile,No,Ministry of Textile
+Bihar,Litchi,East Champaran,213,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Seep Buttons,East Champaran,213,Primary,Textile,No,Ministry of Textile
+Bihar,Handloom/Garments,Gaya,196,Tertiary,Textile,No,Minsitry of Textile
+Bihar,Stone Art,Gaya,196,Primary,Handicraft,No,DC Handicraft
+Bihar,Tilkut,Gaya,196,Secondary,Food Processing,No,Ministry of Food Processing
+Bihar,Sugarcane,Gopalganj,197,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Turmeric,Gopalganj,197,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Crochet Goods,Jamui,198,Primary,Handicraft,No,DC Handicraft
+Bihar,Jackfruit,Jamui,198,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Mushroom,Jehanabad,199,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Rice,Jehanabad,199,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Carpet,Kaimur (Bhabua),200,Secondary,Handicraft,No,DC Handicraft
+Bihar,Rice,Kaimur (Bhabua),200,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Jute,Katihar,201,Primary,Handicraft,No,DC Handicraft
+Bihar,Maize,Katihar,201,Tertiary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Makhana,Katihar,201,Secondary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Bihar,Bamboo Art,Khagaria,202,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Banana,Khagaria,202,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Maize,Khagaria,202,Tertiary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Dragon Fruit,Kishanganj,203,Tertiary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Pineapple,Kishanganj,203,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Tea,Kishanganj,203,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Pulses (Masoor),Lakhisarai,204,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Tomato,Lakhisarai,204,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Bamboo Art,Madhepura,205,Primary,Handicraft,No,DC Handicraft
+Bihar,Mango,Madhepura,205,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Madhubani Paintings,Madhubani,206,Primary,Handicraft,Yes,DC Handicraft
+Bihar,Makhana,Madhubani,206,Tertiary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Bihar,Sikki Painting,Madhubani,206,Secondary,Handicraft,Yes,DC Handicraft
+Bihar,Lemon Grass,Munger,207,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Mentha,Munger,207,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Bags & Garments,Muzaffarpur,208,Tertiary,Textile,No,Ministry of Textile
+Bihar,Shahi Litchi,Muzaffarpur,208,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Bihar,Sujini Embroidery,Muzaffarpur,208,Secondary,Handicraft,Yes,DC Handicraft
+Bihar,Bawan Booti,Nalanda,209,Primary,Handloom,No,DC Handloom
+Bihar,Silao Khaja,Nalanda,209,Secondary,Food Processing,Yes,Ministry of Food Processing
+Bihar,Handloom,Nawada,210,Secondary,Handloom,No,DC Handloom
+Bihar,Magahi Paan/ Betel Vine,Nawada,210,Primary,Food Processing,Yes,Ministry of Food Processing
+Bihar,Brass Metal Work,Patna,212,Primary,Handicraft,No,DC Handicraft
+Bihar,Garments & Active Wear,Patna,212,Tertiary,Textile,No,Ministry of Textile
+Bihar,Tikuli Paintings,Patna,212,Secondary,Handicraft,No,DC Handicraft
+Bihar,Bamboo Art,Purnea,214,Primary,Handicraft,No,DC Handicraft
+Bihar,Jute,Purnea,214,Secondary,Handicraft,No,DC Handicraft
+Bihar,Makhana (Foxnut),Purnea,214,Tertiary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Bihar,Menthol,Rohtas,215,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Sonachud Rice,Rohtas,215,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Tomato,Rohtas,215,Tertiary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Makhana (Foxnut),Saharsa,216,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Bihar,Bamboo Art,Samastipur,217,Primary,Handicraft,No,DC Handicraft
+Bihar,Turmeric,Samastipur,217,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Tomato,Saran,218,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Onion,Sheikhpura,219,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Maize,Sheohar,220,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Applique Work,Sitamarhi,221,Secondary,Handicraft,Yes,DC Handicraft
+Bihar,Litchi,Sitamarhi,221,Tertiary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Sikki Art,Sitamarhi,221,Primary,Handicraft,Yes,DC Handicraft
+Bihar,Mentha,Siwan,222,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Lac Bangles,Supaul,223,Primary,Handicraft,No,DC Handicraft
+Bihar,Makhana (Foxnut),Supaul,223,Secondary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Bihar,Banana,Vaishali,224,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Honey,Vaishali,224,Tertiary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Bihar,Sujni Embroidery,Vaishali,224,Primary,Handicraft,Yes,DC Handicraft
+Bihar,Marcha Chura,West Champaran,211,Primary,Food Processing,No,Ministry of Food Processing
+Bihar,Ready made Garments,West Champaran,211,Secondary,Textile,No,Ministry of Textile
+Chandigarh,Tourism,Chandigarh,44,Primary,Others,No,Ministry of Tourism
+Chhattisgarh,Handloom,Balod,646,Primary,Handloom,No,DC Handloom
+Chhattisgarh,Rice based products - poha etc,Baloda bazar,644,Primary,Food Processing,No,Ministry of Food Processing
+Chhattisgarh,"Rice- Jiraphul, Bisni etc",Balrampur,649,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,Bell Metal (Dhokra),Bastar,374,Primary,Handicraft,Yes,DC Handicraft
+Chhattisgarh,Tamarind,Bastar,374,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,Papaya Based Product,Bemetara,650,Primary,Food Processing,No,Ministry of Food Processing
+Chhattisgarh,"Minor Forest Produce - Tamarind, Mahua",Bijapur,636,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,Black Rice,Bilaspur,375,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,Minor Forest Produce - Tamarind,Dantewada,376,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,Rice,Dhamtari,377,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,Tomato Based Product,Durg,378,Primary,Food Processing,No,Ministry of Food Processing
+Chhattisgarh,Minor Forest Produce - Chirounji,Gariyaband,645,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,Groundnuts,Gaurella Pendra Marwahi,734,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,Kosa,Janjagir-champa,379,Primary,Handloom,No,DC Handloom
+Chhattisgarh,Litchi,Jashpur,380,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,"Sugarcane based product (Ex. Jaggery, Molasses)",Kabirdham,382,Primary,Food Processing,No,Ministry of Food Processing
+Chhattisgarh,Custard Apple Based Product,Kanker,415,Primary,Food Processing,No,Ministry of Food Processing
+Chhattisgarh,Soyabean,Khairagarh-Chhuikhadan-Gandai,759,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,Bastar Craft,Kondagaon,643,Secondary,Handicraft,Yes,DC Handicraft
+Chhattisgarh,Bell Metal (Dhokra),Kondagaon,643,Primary,Handicraft,Yes,DC Handicraft
+Chhattisgarh,Minor Forest Produce - Mahua,Korba,383,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,Tomato,Koriya,384,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,Milk Based Product,Mahasamund,385,Primary,Dairy,No,"Ministry of Fisheries, Animal Husbandry and Dairying"
+Chhattisgarh,Tomato,Manendragarh- Chirmiri- Bharatpur,760,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,Soyabean,Manpur-Mohla- Ambagad Chowki,761,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,Groundnuts,Mungeli,647,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,Black Gram,Narayanpur,637,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,Tomato,Raigarh,386,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,Papaya Based Product,Raipur,387,Primary,Food Processing,No,Ministry of Food Processing
+Chhattisgarh,Soyabean,Rajnandgaon,388,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,Kosa,Sakti,762,Primary,Handloom,No,DC Handloom
+Chhattisgarh,Tomato,Sarangarh-Bilaigarh,763,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,Wooden Craft,Sukma,642,Primary,Handicraft,No,DC Handicraft
+Chhattisgarh,Millet Based Products,Sukma,642,Secondary,Food Processing,No,Ministry of Food Processing
+Chhattisgarh,Potato,Surajpur,648,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,Turmeric,Surajpur,648,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,Jackfruit,Surguja,389,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Chhattisgarh,Potato,Surguja,389,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+"Dadra & Nagar Haveli (UT)
+Daman & Diu (UT)",Textile (Yarn),Dadra & Nagar Haveli,465,Primary,Textile,No,Ministry of Textile
+"Dadra & Nagar Haveli (UT)
+Daman & Diu (UT)",Plastic Products,Daman,463,Primary,Manufacturing,No,MSME
+"Dadra & Nagar Haveli (UT)
+Daman & Diu (UT)",Marine,Diu,464,primary,Marine,No,Department of Fisheries
+Delhi,Dry Fruits & Spices,Central,77,Primary,Agriculture,NO ,Ministry of Food Processing
+Delhi,Ceramic Tiles & Sanitary Goods,East,78,Primary,Manufacturing,NO ,MSME 
+Delhi,Automobile Refurbishing Component,New Delhi,79,Primary,Manufacturing,No,MSME
+Delhi,Light Engineering Goods,North,80,Primary,Manufacturing,No,MSME
+Delhi,Apparels (Jackets & Jeans),North-East,81,Primary,Textile,No,Ministry of Textile
+Delhi,Stainless Steel Utensils/ Kitchen Ware,North-West,82,Primary,Manufacturing,no ,MSME
+Delhi,Readymade clothes/garments,Shahdara,671,Primary,Textile,No,Ministry of Textile
+Delhi,Tourism (Medical & Religious),South,83,Primary,Others,No,Ministry of Tourism
+Delhi,Hospitality Services,South,83,Secondary,Others,No,Ministry of Tourism
+Delhi,Embroidery/Sequence Ladies Garments,South-East,670,Primary,Textile,No,Ministry of Textile
+Delhi,Milk Based Product,South-West,84,Primary,Dairy,No,"Ministry of Fisheries, Animal Husbandry and Dairying"
+Delhi,Furniture items,West,85,Primary,Manufacturing,No,MSME
+Goa,Cashew Nuts,North Goa,551,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Goa,Feni,North Goa,551,Secondary,Food Processing,Yes,Ministry of Food Processing
+Goa,Feni,South Goa,552,Primary,Food Processing,Yes,Ministry of Food Processing
+Goa,Cashew Nuts,South Goa,552,Secondary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Gujarat,Garment & Apparel,Ahmedabad,438,Primary,Textile,No,Ministry of Textile
+Gujarat,Terracotta,Ahmedabad,438,Secondary,Handicraft,No,Ministry of Textiles
+Gujarat,Gamthi Block print,Ahmedabad,438,Others,Handicraft,No,DC Handicraft
+Gujarat,Mata ni Pachedi/ Saudagiri Block Print,Ahmedabad,438,Tertiary,Handloom,Yes,DC Handloom
+Gujarat,Peanut Based Products,Amreli,439,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Gujarat,Beadwork,Amreli,439,Secondary,Handicraft,No,DC Handicraft
+Gujarat,Agates Stone,Anand,440,Secondary,Handicraft,Yes,DC Handicraft
+Gujarat,Milk based Products,Anand,440,Primary,Dairy,No,"Ministry of Fisheries, Animal Husbandry and Dairying"
+Gujarat,Agro Processing,Aravalli,672,Primary,Food Processing,No,Ministry of Food Processing
+Gujarat,Granite and Marble Blocks,Banaskantha,441,Primary,Manufacturing,No,MSME
+Gujarat,Food Processing/Milk Preparation,Banaskantha,441,Secondary,Food Processing,No,Ministry of Food Processing
+Gujarat,Soof Embroidery/Applique,Banaskantha,441,Tertiary,Handloom,Yes,DC Handloom
+Gujarat,"Chemicals (Chemicals,Agro Chemicals, Pesticide, Pharmaceutical, API)",Bharuch,442,Primary,Others,No,Department of Chemicals and Petrochemicals
+Gujarat,Sujani,Bharuch,442,Secondary,Handloom,Yes,DC Handloom
+Gujarat,Dehydrated Vegetables (Onion),Bhavnagar,443,Primary,Food Processing,No,Ministry of Food Processing
+Gujarat,Beadwork,Bhavnagar,443,Secondary,Handicraft,No,DC Handicraft
+Gujarat,Peanut butter,Bhavnagar,443,Tertiary,Food Processing,No,Ministry of Food Processing Industries.
+Gujarat,Groundnuts/ Peanuts,Botad,676,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Gujarat,Jining,Botad,676,Secondary,Manufacturing,No,MSME
+Gujarat,Sankheda furniture,Chhota Udaipur,668,Tertiary,Handicraft,Yes,DC Handicraft
+Gujarat,Pithora Painting,Chhota Udaipur,668,Secondary,Handicraft,Yes,DC Handicraft
+Gujarat,Furniture Products,Chhota Udaipur,668,Primary,Handicraft,No,Ministry of MSME
+Gujarat,Corn Products,Dahod,445,Primary,Food Processing,No,Ministry of Food Processing
+Gujarat,Soyabean/Soya Based Products,Dahod,445,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Gujarat,Kharif Maiz (Agro),Dahod,445,Tertiary,Agriculture,No,Ministry of Agriculture & Farmers Welfare
+Gujarat,Ravi Maiz (Agro),Dahod,445,Others,Agriculture,No,Ministry of Agriculture & Farmers Welfare
+Gujarat,Nagali Products,Dang,444,Primary,Food Processing,No,Ministry of Food Processing
+Gujarat,Strawberry & Strawberry Products,Dang,444,Secondary,Food Processing,No,Ministry of Food Processing
+Gujarat,Khambhaliya Shawl,Devbhoomi Dwarka,674,Secondary,Handloom,No,DC Handloom
+Gujarat,Marine & Fisheries/ Dholdara Fish,Devbhoomi Dwarka,674,Primary,Marine,No,Department of Fisheries
+Gujarat,Salt,Devbhoomi Dwarka,674,Tertiary,Food Processing,No,Ministry of Food Processing
+Gujarat,Software & Financial Services,Gandhinagar,446,Primary,Others,No,MeitY
+Gujarat,Wood work/ Block Making,Gandhinagar,446,Secondary,Handicraft,No,DC Handicraft
+Gujarat,Kesar Mango,Gir Somnath,675,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Gujarat,Marine & Fisheries Industry,Gir Somnath,675,Secondary,Marine,Yes,Department of Fisheries
+Gujarat,Ceramic Tiles,Himmatnagar/Sabarkantha,458,Primary,Manufacturing,No,MSME
+Gujarat,Potato (Cold Storage),Himmatnagar/Sabarkantha,458,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Gujarat,Terracotta,Himmatnagar/Sabarkantha,458,Tertiary,Handicraft,No,DC Handicraft
+Gujarat,Bandhani,Jamnagar,447,Primary,Handloom,Yes,DC Handloom
+Gujarat,Petrochemcials,Jamnagar,447,Secondary,Others,No,Department of Chemicals and Petrochemicals
+Gujarat,Brass Parts,Jamnagar,447,Tertiary,Manufacturing,No,MSME
+Gujarat,Groundnuts/Peanuts (Peanut Based Products),Junagadh,448,Primary,Food Processing,No,Ministry of Food Processing
+Gujarat,Beadwork,Junagadh,448,Secondary,Handicraft,No,DC Handicraft
+Gujarat,Mango,Junagadh,448,Tertiary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Gujarat,Agro Products,Kheda (Nadiad),450,Primary,Food Processing,No,Ministry of Food Processing
+Gujarat,Mathia,Kheda (Nadiad),450,Secondary,Food Processing,No,Ministry of Food Processing
+Gujarat,Handicraft Items,Kachch,449,Primary,Handicraft,Yes,DC Handicraft
+Gujarat,Green Dates,Kachch,449,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Gujarat,Salt,Kachch,449,Tertiary,Food Processing,No,Ministry of Food Processing
+Gujarat,Bhujodi Shawl weaving,Kachchh,449,Others,Handloom,No,Ministry of Textiles
+Gujarat,Hand Embroidery,Kachchh,449,Others,Handloom,No,Ministry of Textiles
+Gujarat,Ajrakh,Kachchh,449,Others,Handicraft,No,Ministry of Textiles
+Gujarat,Leather Work,Kachchh,449,Others,Handicraft,No,Ministry of MSME
+Gujarat,Food Processing Papaya,Mahisagar,669,Primary,Food Processing,No,Ministry of Food Processing
+Gujarat,Dairy/ Milk Product,Mehsana,451,Primary,Dairy,No,"Ministry of Fisheries, Animal Husbandry and Dairying"
+Gujarat,Agri Products,Mehsana,451,Secondary,Food Processing,No,Ministry of Food Processing
+Gujarat,Cumin,Mehsana,451,Tertiary,Agriculture,Yes,Ministry of Agriculture & Farmers Welfare
+Gujarat,Castor,Mehsana,451,Others,Food Processing,yes ,Ministry of Food Processing
+Gujarat,Ceramic Tiles & Sanitary Ware,Morbi,673,Primary,Manufacturing,No,MSME
+Gujarat,Pottery,Morbi,673,Secondary,Handicraft,No,DC Handicraft
+Gujarat,Banana,Narmada,452,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Gujarat,Bamboo Products,Narmada,452,Secondary,Handicraft,No,DC Handicraft
+Gujarat,Sugarcane value added products,Narmada,452,Tertiary,Food Processing,No ,Ministry of Food Processing Industries
+Gujarat,Mango (Hafus),Navsari,453,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Gujarat,Warli,Navsari,453,Secondary,Handicraft,Yes,DC Handicraft
+Gujarat,Plastic Products,Panchmahal,454,Primary,Manufacturing,No,MSME
+Gujarat,Agro (Turmeric),Panchmahal,454,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Gujarat,Double Ikkat Patan,Patan,455,Primary,Handloom,Yes,DC Handloom
+Gujarat,Cumin,Patan,455,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Gujarat,Isabgul,Patan,455,Tertiary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Gujarat,Patola,Patan,455,Others,Handloom,yes,MSME
+Gujarat,Marine (Queen Fish),Porbandar,456,Primary,Marine,No,Department of Fisheries
+Gujarat,Engineering Goods/Machine products,Rajkot,457,Primary,Manufacturing,No,MSME
+Gujarat,Single Ikat weaving,Rajkot,457,Secondary,Handicraft,No,DC Handicraft
+Gujarat,Gems and Jewellery,Surat,459,Primary,Handicraft,No,DC Handicraft
+Gujarat,Zari and Zardosi,Surat,459,Secondary,Handicraft,Yes,DC Handicraft
+Gujarat,Sadeli,Surat,459,Tertiary,Handicraft,Yes,DC Handicraft
+Gujarat,Single Ikat weaving,Surendranagar,460,Primary,Handloom,No,DC Handloom
+Gujarat,Tangaliya Shawl,Surendranagar,460,Secondary,Handloom,Yes,DC Handloom
+Gujarat,Spinning and Cotton Yarn,Surendranagar,460,Tertiary,Textile,No,Ministry of Textile
+Gujarat,Rice based products,Tapi,641,Primary,Food Processing,No,Ministry of Food Processing
+Gujarat,Bamboo Products,Tapi,641,Secondary,Handicraft,No,DC Handicraft
+Gujarat,Peanuts,Tapi,641,Tertiary,Agriculture,No,Ministry of Agriculture & Farmers Welfare
+Gujarat,Fruits,Tapi,641,Others,Agriculture,No,Ministry of Agriculture & Farmers Welfare
+Gujarat,Lady Finger,Tapi,641,Others,Agriculture,No,Ministry of Agriculture & Farmers Welfare
+Gujarat,Pharmaceuticals,Vadodara,461,Primary,Others,No,Department of Pharmaceuticals
+Gujarat,Engineering Products,Vadodara,461,Secondary,Manufacturing,No,MSME
+Gujarat,Chemical Products,Valsad,462,Primary,Others,No,Department of Chemicals and Petrochemicals
+Gujarat,Mango,Valsad,462,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Gujarat,Prawns,Valsad,462,Tertiary,Marine,No,Department of Fisheries
+Haryana,Scientific Equipment,Ambala,58,Primary,Manufacturing,No,MSME
+Haryana,Precision Engineering Products,Ambala,58,Secondary,Manufacturing,No,MSME
+Haryana,Milk Product,Bhiwani,59,Primary,Dairy,No,"Ministry of Fisheries, Animal Husbandry and Dairying"
+Haryana,Cattle Feed,Bhiwani,59,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Haryana,Plastic Products,Bhiwani,59,Tertiary,Manufacturing,No,MSME
+Haryana,"Mining & Crushing equipment for Minerals & Stones (Jaws and Screens, etc)",Charkhi Dadri,701,Primary,Manufacturing,No,MSME
+Haryana,"Wooden Handicraft Items (Gift item, Furniture etc.)",Charkhi Dadri,701,Secondary,Handicraft,No,DC Handicraft
+Haryana,Auto Components,Faridabad,60,Primary,Manufacturing,No,MSME
+Haryana,Machine Tools,Faridabad,60,Secondary,Manufacturing,No,MSME
+Haryana,Cotton & Agri-based products,Fatehabad,61,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Haryana,Agriculture Implements,Fatehabad,61,Secondary,Manufacturing,No,MSME
+Haryana,Textile and Apparels,Gurugram,62,Primary,Textile,No,Ministry of Textile
+Haryana,Engineering Goods,Gurugram,62,Secondary,Manufacturing,No,MSME
+Haryana,Agriculture Implements,Hisar,63,Secondary,Manufacturing,No,MSME
+Haryana,Dairy products,Hisar,63,Tertiary,Dairy,No,"Ministry of Fisheries, Animal Husbandry and Dairying"
+Haryana,Steel Products,Hisar,63,Primary,Manufacturing,No,MSME
+Haryana,Footwear,Jhajjar,64,Primary,Manufacturing,No,MSME
+Haryana,Engineering Goods,Jind,65,Secondary,Manufacturing,No,MSME
+Haryana,Poultry Feed,Jind,65,Primary,dairy,No,"Ministry of Fisheries, Animal Husbandry and Dairying"
+Haryana,Food Processing (Rice Mill & Dairy Products ),Kaithal,66,Primary,Food Processing,No,Ministry of Food Processing
+Haryana,Metal Products,Kaithal,66,Secondary,Manufacturing,No,MSME
+Haryana,Ayurvedic Products,Karnal,67,Primary,Others,No,Ministry of Ayush
+Haryana,Food Processing ,Karnal,67,Secondary,Food Processing,No,Ministry of Food Processing
+Haryana,Printing and Packaging,Karnal,67,Tertiary,Manufacturing,No,MSME
+Haryana,Agri - Implements,Kurukshetra,68,Primary,Manufacturing,No,MSME
+Haryana,Tourism (Mahabharata),Kurukshetra,68,Secondary,Others,No,Ministry of Tourism
+Haryana,Mustard Oil,Mahendragarh,69,Primary,Food Processing,No,Ministry of Food Processing
+Haryana,Apparels,Mewat,192,Primary,Textile,No,Ministry of Textile
+Haryana,Food Processing,Mewat,192,Secondary,Food Processing,No,Ministry of Food Processing
+Haryana,Machineries - Agriculture & Dairy,Palwal,619,Primary,Manufacturing,No,MSME
+Haryana,Automobile Parts,Panchkula,70,Primary,Manufacturing,No,MSME
+Haryana,Pharmaceuticals,Panchkula,70,Secondary,Others,No,Department of Pharmaceuticals
+Haryana,Handloom and Textiles,Panipat,71,Primary,Textile,No,Ministry of Textile
+Haryana,Engineering Goods,Rewari,72,Secondary,Manufacturing,No,MSME
+Haryana,Motorcycles/ bikes,Rewari,72,Primary,Manufacturing,No,MSME
+Haryana,Fastners and Machine Tools,Rohtak,73,Primary,Manufacturing,No,MSME
+Haryana,"Cotton Products (Balls, Swabs)",Sirsa,74,Primary,Textile,No,Ministry of Textile
+Haryana,Sheet Fabrication (Pre Fab Structures),Sirsa,74,Secondary,Manufacturing,No,MSME
+Haryana,Food Processing,Sonipat,75,Secondary,Food Processing,No,Ministry of Food Processing
+Haryana,Plastic moulded Products (Electronic Toys),Sonipat,75,Primary,Manufacturing,No,MSME
+Haryana,Stainless Steel Products,Sonipat,75,Tertiary,Manufacturing,No,MSME
+Haryana,Metal Utensils,Yamunanagar,76,Secondary,Manufacturing,No,MSME
+Haryana,Plywood,Yamunanagar,76,Primary,Manufacturing,No,MSME
+Himachal Pradesh,Processing of Indian Gooseberry (Amla),Bilaspur,15,Primary,Food Processing,No,Ministry of Food Processing
+Himachal Pradesh,Chamba Rumal,Chamba,16,Primary,Handloom,Yes,DC Handloom
+Himachal Pradesh,Agro-products processing,Hamirpur,17,Primary,Food Processing,No,Ministry of Food Processing
+Himachal Pradesh,Kangra Tea,Kangra,18,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Himachal Pradesh,Kangra Paintings,Kangra,18,Secondary,Handicraft,Yes,DC Handicraft
+Himachal Pradesh,Oil-Himachali Chulli ,Kinnaur,19,Primary,Food Processing,Yes,Ministry of Food Processing
+Himachal Pradesh,Shawl-Kullu,Kullu,20,Primary,Handloom,Yes,DC Handloom
+Himachal Pradesh,Processing of Seabuckthorn (Charma),Lahaul & Spiti,21,Primary,Food Processing,No,Ministry of Food Processing
+Himachal Pradesh,Steel Furniture,Mandi,22,Primary,Manufacturing,No,MSME
+Himachal Pradesh,Tourism,Shimla,23,Primary,Others,No,Ministry of Tourism
+Himachal Pradesh,Packaging (Corrugated Boxes),Sirmaur,24,Primary,Manufacturing,No,MSME
+Himachal Pradesh,Mushrooms,Solan,25,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Himachal Pradesh,Light Engineering Industry,Una,26,Primary,Manufacturing,No,MSME
+Jammu and Kashmir,Trout Fish,Anantnag,1,Primary,Marine,No,Department of fisheries
+Jammu and Kashmir,Crewal Based Shawl,Bandipora,623,Primary,Textile,No,Ministry of Textile
+Jammu and Kashmir,Apples,Baramulla,3,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Jammu and Kashmir,Kani Shawls,Budgam,2,Primary,Handloom,Yes,DC Handloom
+Jammu and Kashmir,Natural Oils (Lavender),Doda,4,Primary,Manufacturing,No,MSME
+Jammu and Kashmir,Wicker Willow,Ganderbal,626,Primary,Handicraft,No,DC Handicraft
+Jammu and Kashmir,Basmati Rice,Jammu,5,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Jammu and Kashmir,Basholi Pashmina,Kathua,7,Primary,Handloom,Yes,DC Handloom
+Jammu and Kashmir,Basohli Painting,Kathua,7,Secondary,Handicraft,Yes,DC Handicraft
+Jammu and Kashmir,Saffron,Kishtwar,620,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Jammu and Kashmir,Garlic,Kulgam,622,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Jammu and Kashmir,Walnut,Kupwara,8,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Jammu and Kashmir,Pecannut,Poonch,10,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Jammu and Kashmir,Saffron,Pulwama,11,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Jammu and Kashmir,Walnut,Rajouri,12,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Jammu and Kashmir,Honey,Ramban,621,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Jammu and Kashmir,Aromatic Plants,Reasi,627,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Jammu and Kashmir,Mushroom,Samba,624,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Jammu and Kashmir,Apple,Shopian,625,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Jammu and Kashmir, Silk Carpet (Hand Knotted Carpet),Srinagar,13,Primary,Handicraft,Yes,DC Handicraft
+Jammu and Kashmir,Garlic,Udhampur,14,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Jharkhand,Woodcraft,Bokaro,322,Primary,Handicraft,No,DC Handicraft
+Jharkhand,Vegetable,Chatra,323,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Jharkhand,Lac Products,Deogarh,324,Primary,Manufacturing,No,MSME
+Jharkhand,Coal,Dhanbad,325,Primary,Manufacturing,No,MSME
+Jharkhand,Bamboo,Dumka,326,Primary,Handicraft,No,DC Handicraft
+Jharkhand,Carpets,Garhwa,328,Primary,Handicraft,No,DC Handicraft
+Jharkhand,Steel- TMT Bar,Giridih,329,Primary,Manufacturing,No,MSME
+Jharkhand,Tasar Silk,Godda,330,Primary,Handloom,No,DC Handloom
+Jharkhand,Ragi,Gumla,331,Primary,Agriculture,No,Ministry of Agriculture & Farmers Welfare
+Jharkhand,Sohrai Painting,Hazaribagh,332,Primary,Handicraft,Yes,DC Handicraft
+Jharkhand,Paithkar Painting,Jamshedpur (East Singhbhum),327,Primary,Handicraft,No,DC Handicraft
+Jharkhand,Nuts-Cashew,Jamtara,333,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Jharkhand,Lac,Khunti,606,Primary,Handicraft,No,DC Handicraft
+Jharkhand,Mica,Koderma,334,Primary,Manufacturing,No,MSME
+Jharkhand,Mahua,Latehar,335,Primary,Food Processing,No,Ministry of Food Processing
+Jharkhand,Honey,Lohardaga,336,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Jharkhand,Jute,Pakur,337,Primary,Handicraft,No,DC Handicraft
+Jharkhand,Pulses-Arhar,Palamu,338,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Jharkhand,Silver Jewellery,Ramgarh,607,Primary,Manufacturing,No,MSME
+Jharkhand,Ready Made Garments,Ranchi,339,Primary,Textile,No,Ministry of Textile
+Jharkhand,Jute,Sahibganj,340,Primary,Handicraft,No,DC Handicraft
+Jharkhand,Kharsawan Silk,Saraikela- Kharsawan,341,Primary,Textile,No,Ministry of Textile
+Jharkhand,Minor Forest Produce,Simdega,342,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Jharkhand,Custard Apple,West Singhbhum (chaibassa),343,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Karnataka,Ilkal Sarees,Bagalkote,524,Primary,Handloom,Yes,DC Handloom
+Karnataka,Steel and Allied activities,Ballari (Bellary),528,Primary,Manufacturing,No,MSME
+Karnataka,Bellary Denim Jeans,Ballary,528,Secondary,Textile,No,Ministry of Textile
+Karnataka,Auto components,Belagavi (Belgaum),527,Primary,Manufacturing,No,MSME
+Karnataka,Foundry,Belagavi,527,Secondary,Manufacturing,No,MSME
+Karnataka,Ready-made Garment Manufacturing,Bengaluru (Bangalore) Rural,526,Secondary,Textile,No,Ministry of Textile
+Karnataka,Aerospace & Defense,Bengaluru (Bangalore) Rural,526,Primary,Manufacturing,No,MSME
+Karnataka,IT/ITES and R&D,Bengaluru (Bangalore) Urban,525,Primary,Others,No,MeitY
+Karnataka,Handloom Silk Sarees,Bengaluru Urban,525,Secondary,Handloom,No,DC Handloom
+Karnataka,Bidari ware,Bidar,529,Primary,Handicraft,Yes,DC Handicraft
+Karnataka,Turmeric,Chamarajanagar,531,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Karnataka,Stone Work,Chamarajanagara,531,Secondary,Manufacturing,No,MSME
+Karnataka,ESDM,Chikkballapur,630,Primary,Manufacturing,No,MSME
+Karnataka,Shidlagatta silk and Raw Silk based sarees,Chikkaballapura,630,Secondary,Handloom,No,DC Handloom
+Karnataka,Coffee-Arabica,Chikkamagaluru (Chikmagalur),532,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Karnataka,Spice,Chikkamagaluru (Chikmagalur),532,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Karnataka,"Areca leaf based Products (Plates, Cups Etc)",Chikkamagaluru,532,Tertiary,Manufacturing,No,MSME
+Karnataka,Molakalmuru Sarees,Chitradurga,533,Primary,Handloom,Yes,DC Handloom
+Karnataka,Marine Products,Dakshina Kannada,534,Primary,Marine,No,Department of fisheries
+Karnataka,Textile processing,Dakshina Kannada,534,Secondary,Textile,No,Ministry of Textile
+Karnataka,Millets,Davangere,535,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Karnataka,Cotton based processing (ginning) & garmenting,Davanagere,535,Secondary,Textile,No,Ministry of Textile
+Karnataka,FMCG,Dharwad,536,Primary,Food Processing,No,Ministry of Food Processing
+Karnataka,Volve Mfg,Dharwad,536,Secondary,Manufacturing,No,MSME
+Karnataka,Byadagi Chilies,Gadag,537,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Karnataka,Textiles,Gadag,537,Secondary,Textile,No,Ministry of Textile
+Karnataka,Coir products,Hassan,539,Primary,Handicraft,No,DC Handicraft
+Karnataka,Jacquard Bedsheet,Hassan,539,Secondary,Textile,No,Ministry of Textile
+Karnataka,Chilli-Byadagi ,Haveri,540,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Karnataka,Spice Products,Haveri,540,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Karnataka,Toor Daal,Kalaburagi (Gulbarga),538,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Karnataka,Cement,Kalaburagi (Gulbarga),538,Secondary,Manufacturing,No,MSME
+Karnataka,Shahabad stones,Kalaburagi (Gulbarga),538,Tertiary,Manufacturing,No,MSME
+Karnataka,Coffee,Kodagu,541,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Karnataka,Spices,Kodagu,541,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Karnataka,Homemade chocolates/wines,Kodagu,541,Tertiary,Food Processing,No,Ministry of Food Processing
+Karnataka,Automobiles,Kolar,542,Primary,Manufacturing,No,MSME
+Karnataka,Shivarapatna stone craft,Kolar,542,Secondary,Handicraft,No,DC Handicraft
+Karnataka,Kinhal Toys,Koppal,543,Primary,Handicraft,Yes,DC Handicraft
+Karnataka,Jaggery,Mandya,544,Primary,Food Processing,No,Ministry of Food Processing
+Karnataka,Rice based products,Mandya,544,Secondary,Food Processing,No,Ministry of Food Processing
+Karnataka,ESDM,Mysuru (Mysore),545,Primary,Manufacturing,No,MSME
+Karnataka,Rosewood inlay art,Mysuru (Mysore),545,Secondary,Handicraft,Yes,DC Handicraft
+Karnataka,Pharma,Raichur,546,Primary,Others,No,Department of Pharmaceuticals
+Karnataka,Cotton and cotton based products,Raichur,546,Secondary,Textile,No,Ministry of Textile
+Karnataka,Channapatna Toys ,Ramanagara,631,Primary,Handicraft,Yes,DC Handicraft
+Karnataka,EV Cluster,Ramanagara,631,Secondary,Manufacturing,No,MSME
+Karnataka,BioPharma and Wellness,Shivamogga (Shimoga),547,Primary,Others,No,Department of Pharmaceuticals
+Karnataka,Wooden Carving,Shivamogga,547,Secondary,Handicraft,No,DC Handicraft
+Karnataka,Machine Tool,Tumakuru (Tumkur),548,Primary,Manufacturing,No,MSME
+Karnataka,Coir based Industries,Tumakuru (Tumkur),548,Secondary,Manufacturing,No,MSME
+Karnataka,Marine Products,Udupi,549,Primary,Marine,No,Department of fisheries
+Karnataka,Gems and Jewellery,Udupi,549,Secondary,Handicraft,No,DC Handicraft
+Karnataka,Spices,Uttara Kannada (Karwar),550,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Karnataka,Ayurvedic Medicine Mfg,Uttara Kannada (Karwar),550,Secondary,Others,No,Ministry of Ayush
+Karnataka,Sandur Lambani Embroidery,Vijayanagara,738,Primary,Handloom,Yes,DC Handloom
+Karnataka,Resin,Vijayapura (Bijapur),530,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Karnataka,Agricultural Implements,Vijayapura (Bijapur),530,Secondary,Manufacturing,No,MSME
+Karnataka,Pharmaceuticals,Yadagiri,635,Primary,Others,No,Department of Pharmaceuticals
+Karnataka,Cotton and Cotton based Products,Yadagiri,635,Secondary,Textile,No,Ministry of Textile
+Kerala,Coir products,Alappuzha,554,Primary,Handicraft,Yes,DC Handicraft
+Kerala,Oleo Raisins,Ernakulam,555,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Kerala,Spices,Idukki,556,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Kerala,Handloom Products,Kannur,557,Primary,Handloom,No,DC Handloom
+Kerala,Cashew Products,Kasaragod,558,Primary,Food Processing,No,Ministry of Food Processing
+Kerala,Cashew Nut Products,Kollam,559,Primary,Food Processing,No,Ministry of Food Processing
+Kerala,Rubber Products,Kottayam,560,Primary,Manufacturing,No,MSME
+Kerala,Coconut Products,Kozhikode,561,Primary,Food Processing,No,Ministry of Food Processing
+Kerala,Food Products,Malappuram,562,Primary,Food Processing,No,Ministry of Food Processing
+Kerala,Palakkadan Matta Rice,Palakkad,563,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Kerala,Food Products,Pathanamthitta,564,Primary,Food Processing,No,Ministry of Food Processing
+Kerala,Handloom Products,Thiruvananthapuram,565,Primary,Textile,No,Ministry of Textile
+Kerala,Coconut Products,Thrissur,566,Primary,Food Processing,No,Ministry of Food Processing
+Kerala,Coffee,Wayanad,567,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Ladakh,Apricot,Kargil,6,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Ladakh,Tourism,Kargil,6,Secondary,Others,No,Ministry of Tourism
+Ladakh,Pashmina,Leh,9,Secondary,Handloom,Yes,DC Handloom
+Ladakh,Seabuckthorn,Leh,9,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Lakshadweep,Coconut Derived Products,Lakshadweep,553,Primary,Food Processing,No,Ministry of Food Processing
+Madhya Pradesh,Oranges,Agar Malwa,667,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Mahua,Alirajpur,639,Primary,Food Processing,No,Ministry of Food Processing
+Madhya Pradesh,Kodo Kutki,Anuppur,390,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Chanderi Handloom,Ashoknagar,391,Primary,Handloom,Yes,DC Handloom
+Madhya Pradesh,Ginger,Badhwani,393,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Chinnaur Rice,Balaghat,392,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Teak,Betul,394,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Mustard,Bhind,395,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Zari Zardosi,Bhopal,396,Primary,Handicraft,No,DC Handicraft
+Madhya Pradesh,Jute Products,Bhopal,396,Secondary,Handicraft,No,DC Handicraft
+Madhya Pradesh,Banana,Burhanpur,397,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Furniture - Wooden,Chhatarpur,398,Primary,Handicraft,No,DC Handicraft
+Madhya Pradesh,Oranges & Orange Products,Chhindwara,399,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Gram,Damoh,400,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Jaggery,Datia,401,Primary,Food Processing,No,Ministry of Food Processing
+Madhya Pradesh,Bamboo,Dewas,402,Primary,Handicraft,No,DC Handicraft
+Madhya Pradesh,Bagh Prints ,Dhar (Pithampur),403,Primary,Handloom,Yes,DC Handloom
+Madhya Pradesh,Kodo Kutki,Dindori,404,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Coriander,Guna,406,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Sandstone Tiles,Gwalior,407,Primary,Manufacturing,No,MSME
+Madhya Pradesh,Bamboo,Harda,408,Primary,Handicraft,No,DC Handicraft
+Madhya Pradesh,Sightseeing,Hoshangabad,346,Primary,Others,No,Ministry of Tourism
+Madhya Pradesh,Potato,Indore,410,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Peas,Jabalpur,411,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Kadaknath Chicken,Jhabua,412,Primary,Food Processing,Yes,Ministry of Food Processing
+Madhya Pradesh,Cut Stone,Katni,413,Primary,Manufacturing,No,MSME
+Madhya Pradesh,Onion,Khandwa,405,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Chilli,Khargone,414,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Kodo Kutki,Mandla,415,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Garlic,Mandsaur,416,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Oil - Mustard,Morena,417,Primary,Food Processing,No,Ministry of Food Processing
+Madhya Pradesh,Toor Dal,Narsinghpur,418,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Coriander,Neemuch,419,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Ginger,Niwari,722,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Gooseberry,Panna,420,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Basmati Rice,Raisen,421,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Orange,Rajgarh,422,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Ratlami Namkeen,Ratlam,423,Primary,Food Processing,Yes,Ministry of Food Processing
+Madhya Pradesh,Bamboo,Rewa,424,Primary,Handicraft,No,DC Handicraft
+Madhya Pradesh,Farm Equipment,Sagar,425,Primary,Manufacturing,No,MSME
+Madhya Pradesh,Tomato,Satna,426,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Wooden Toys and Handicraft,Sehore,427,Primary,Handicraft,No,DC Handicraft
+Madhya Pradesh,Cilantro,Seoni,428,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Turmeric,Shahdol,429,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Onion,Shajapur,430,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Guava,Sheopur,431,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Cloth Jacket,Shivpuri,432,Primary,Textile,No,Ministry of Textile
+Madhya Pradesh,Carpet (Panja Dari),Sidhi,433,Primary,Handicraft,No,DC Handicraft
+Madhya Pradesh,Kodo Kutki (Millet),Singrauli,638,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Ginger,Tikamgarh,434,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Madhya Pradesh,Batik print,Ujjain,435,Primary,Textile,Yes,Ministry of Textile
+Madhya Pradesh,Mahua,Umaria,436,Primary,Food Processing,No,Ministry of Food Processing
+Madhya Pradesh,Farm Equipment,Vidisha,437,Primary,Manufacturing,No,MSME
+Maharashtra,Cane Sugar,Ahmednagar,466,Primary,Food Processing,No,Ministry of Food Processing
+Maharashtra,Dairy Products (Milk based products),Ahmednagar,466,Secondary,Dairy,No,"Ministry of Fisheries, Animal Husbandry and Dairying"
+Maharashtra,Cotton Ginning and pressing,Akola,467,Primary,Textile,No,Ministry of Textile
+Maharashtra,Pulses (Daal),Akola,467,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Textile,Amravati,468,Primary,Textile,No,Ministry of Textile
+Maharashtra,Mandarin Orange,Amravati,468,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Marathwada Kesar Mango,Aurangabad,377,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Auto components,Aurangabad,377,Secondary,Manufacturing,No,MSME
+Maharashtra,Cotton and cotton seed oil,Beed,470,Primary,Food Processing,No,Ministry of Food Processing
+Maharashtra,Beed Custard Apple,Beed,470,Secondary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Rice,Bhandara,471,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Mineral based products,Buldhana,472,Secondary,Others,No,Ministry of mines
+Maharashtra,Cotton Related products,Buldhana,472,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Seeds for planting,Buldhana,472,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Rice,Chandrapur,473,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Bamboo Products,Chandrapur,473,Secondary,Handicraft,No,DC Handicraft
+Maharashtra,De-Oiled Cake,Dhule,474,Primary,Food Processing,No,Ministry of Food Processing
+Maharashtra,Textile,Dhule,474,Secondary,Textile,No,Ministry of Textile
+Maharashtra,Rice,Gadchiroli,475,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Forest products,Gadchiroli,475,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Rice,Gondia,476,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Bamboo Articles,Gondia,476,Secondary,Handicraft,No,DC Handicraft
+Maharashtra,Turmeric,Hingoli,477,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Soyabean and soyabean based products,Hingoli,477,Secondary,Food Processing,No,Ministry of Food Processing
+Maharashtra,Jalgaon Banana,Jalgaon,478,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Plastic PVC Pipes,Jalgaon,478,Secondary,Manufacturing,No,MSME
+Maharashtra,Sweet Orange,Jalna,479,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,TMT Steel Bars,Jalna,479,Secondary,Manufacturing,No,MSME
+Maharashtra,Kolhapur Jaggery (Sugarcane Products etc),Kolhapur,480,Primary,Food Processing,Yes,Ministry of Food Processing
+Maharashtra,Engineering,Kolhapur,480,Secondary,Manufacturing,No,MSME
+Maharashtra,Soya bean and Soya bean based products,Latur,481,Primary,Food Processing,No,Ministry of Food Processing
+Maharashtra,Pulses,Latur,481,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Gems & Jewellery,Mumbai City,482,Primary,Manufacturing,No,MSME
+Maharashtra,Leather,Mumbai City,482,Secondary,Handicraft,No,DC Handicraft
+Maharashtra,Gems & Jewellery,Mumbai Suburban,483,Primary,Manufacturing,No,MSME
+Maharashtra,Marine Produce,Mumbai Suburban,483,Secondary,Marine,No,Department of fisheries
+Maharashtra,Nagpur Orange,Nagpur,484,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Engineering,Nagpur,484,Secondary,Manufacturing,No,MSME
+Maharashtra,Soya bean and soya bean products,Nanded,485,Primary,Food Processing,No,Ministry of Food Processing
+Maharashtra,Spices,Nanded,485,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Chilli powder,Nandurbar,486,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Textile,Nandurbar,486,Secondary,Textile,No,Ministry of Textile
+Maharashtra,Grapes/Raisins,Nashik,487,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Paithani Sarees,Nashik,487,Secondary,Handloom,Yes,DC Handloom
+Maharashtra,Pulses,Osmanabad,387,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Sugar,Osmanabad,387,Secondary,Food Processing,No,Ministry of Food Processing
+Maharashtra,Dahanu Gholvad Chikoo (Sapota),Palghar,665,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Marine Produce,Palghar,665,Secondary,Marine,No,Department of fisheries
+Maharashtra,Grams (Hara bhara),Parbhani,489,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Jaggery,Parbhani,489,Secondary,Food Processing,No,Ministry of Food Processing
+Maharashtra,Engineering Goods,Pune,490,Primary,Manufacturing,No,MSME
+Maharashtra,Frozen Food,Pune,490,Secondary,Food Processing,No,Ministry of Food Processing
+Maharashtra,Marine Produce,Raigad,491,Primary,Marine,No,Department of fisheries
+Maharashtra,Iron and Steel,Raigad,491,Secondary,Manufacturing,No,MSME
+Maharashtra,Alphonso Mangoes,Ratnagiri,492,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Marine Produce,Ratnagiri,492,Secondary,Marine,No,Department of fisheries
+Maharashtra,Turmeric,Sangli,493,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Pump Spares,Sangli,493,Secondary,Manufacturing,No,MSME
+Maharashtra,Strawberries,Satara,494,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Jaggery,Satara,494,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Vengurla Cashew,Sindhudurg,495,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Devgad Alphonso Mango,Sindhudurg,495,Secondary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Solapur Terry Towel,Solapur,496,Primary,Textile,Yes,Ministry of Textile
+Maharashtra,Pomegranate,Solapur,496,Secondary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Garments & Textiles,Thane,497,Primary,Textile,No,Ministry of Textile
+Maharashtra,Millets,Thane,497,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Cotton Yarn,Wardha,498,Primary,Textile,No,Ministry of Textile
+Maharashtra,Waigaon Turmeric,Wardha,498,Secondary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Maharashtra,Soya bean and soya bean products,Washim,499,Primary,Food Processing,No,Ministry of Food Processing
+Maharashtra,Cotton related products & Textiles,Washim,499,Secondary,Textile,No,Ministry of Textile
+Maharashtra,Cotton Ginning and pressing,Yavatmal,500,Primary,Textile,No,Ministry of Textile
+Maharashtra,Dolomite and Limestone,Yavatmal,500,Secondary,Manufacturing,No,MSME
+Manipur,Moirang Fi Chanbi Fanek,Bishnupur,252,Primary,Handloom,Yes,DC Handloom
+Manipur,Turmeric,Chandel,253,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Manipur,Handicrafts - Tribal,Churachandpur,254,Primary,Handicraft,No,DC Handicraft
+Manipur,Wangkhei Phee,Imphal East,255,Primary,Handloom,Yes,DC Handloom
+Manipur,Toys- Laiphadibi,Imphal West,256,Primary,Handicraft,No,DC Handicraft
+Manipur,Khurkul Muga,Imphal West,256,Secondary,Handloom,No,DC Handloom
+Manipur,Bamboo,Jiribam,713,Primary,Handicraft,No,DC Handicraft
+Manipur,Rice- Black Chakao,Kakching,711,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Manipur,King Chilli,Kamjong,717,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Manipur,Turmeric,Kangpokpi,712,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Manipur,Banana,Noney,714,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Manipur,Ginger,Pherzawl,715,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Manipur,Kiwi,Senapati,257,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Manipur,Orange - (Tamenglong Mandarin),Tamenglong,258,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Manipur,Bamboo,Tengnoupal,716,Primary,Handicraft,No,DC Handicraft
+Manipur,Pineapple,Thoubal,259,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Manipur,Kachai Lemon,Ukhrul,260,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Meghalaya,Pineapple,East Garo Hills,273,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+NULL,NULL,NULL,000,NULL,NULL,NO,NULL
+Meghalaya,Cane & Bamboo Handicrafts,East Khasi Hills,274,Secondary,Handicraft,no ,Ministry of MSME
+Meghalaya,Kiwi,Eastern West Khasi Hills,740,Primary,Agriculture,no ,Ministry of Agriculture & Farmers Welfare
+Meghalaya,Cane & Bamboo Products,Eastern West Khasi Hills,740,Secondary,Handicraft,no ,Ministry of MSME
+Meghalaya,Banana,North Garo Hills,656,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Meghalaya,Pineapple,Ri-Bhoi,276,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Meghalaya,Eri Silk Handloom (Ryndia),Ri-Bhoi,276,Secondary,Handloom,no ,Ministry of Textiles
+Meghalaya,Jackfruit,South Garo Hills,277,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Meghalaya,Pineapple,South West Garo Hills,663,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Meghalaya,Honey,South West Khasi Hills,658,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Meghalaya,Cashew,West Garo Hills,278,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Meghalaya, Turmeric (Lakadong),West Jaintia Hills,275,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Meghalaya,Black Pottery (Khiew Ranei),West Jaintia Hills,275,Secondary,Handicraft,no ,Ministry of MSME
+Meghalaya,Cane & Bamboo Handicrafts (Mats),West Khasi Hills,279,Secondary,Handicraft,no ,Ministry of MSME
+Meghalaya,Ginger,West Khasi Hills,279,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Mizoram,Dragon Fruit,Aizawl,261,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Mizoram,Mizo Chilli,Champhai,262,Primary,Agriculture,yes,Ministry of Agriculture & Farmers' Welfare
+Mizoram,Passion Fruit,Champhai,262,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Mizoram,Mizo Chilli,Hnahthial,726,Primary,Agriculture,yes,Ministry of Agriculture & Farmers' Welfare
+Mizoram,Pineapple,Khawzawl,728,Primary,Agriculture,no ,Ministry of Agriculture & Farmers' Welfare
+Mizoram,Passion Fruit,Khawzawl,728,Secondary,Agriculture,no,Ministry of Agriculture & Farmers' Welfare
+Mizoram,Dragon Fruit,Kolasib,573,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Mizoram,Mizo Chilli,Lawngtlai,264,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Mizoram,Banana,Lunglei,265,Primary,Agriculture,No ,Ministry of Agriculture & Farmers' Welfare
+Mizoram,Passion Fruit,Lunglei,265,Secondary,Agriculture,no ,Ministry of Agriculture & Farmers' Welfare
+Mizoram,Turmeric,Mamit,266,Primary,Agriculture,No ,Ministry of Agriculture & Farmers' Welfare
+Mizoram,Ginger,Saitual,727,Primary,Agriculture,Yes ,Ministry of Agriculture & Farmers' Welfare
+Mizoram,Passion Fruit,Saitual,727,Secondary,Agriculture,No ,Ministry of Agriculture & Farmers' Welfare
+Mizoram,Banana,Serchhip,268,Primary,Agriculture,No ,Ministry of Agriculture & Farmers' Welfare
+Mizoram,Passion Fruit,Serchhip,268,Secondary,Agriculture,No ,Ministry of Agriculture & Farmers' Welfare
+Mizoram,Chilli - Mizo,Siaha,267,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Pineapple,Chumukedima,758,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Pineapple,Dimapur,244,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Bamboo,Dimapur,244,Secondary,Handicraft,No,DC Handicraft
+Nagaland,Kholar,Kiphire,614,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Pickles,Kohima,245,Primary,Food Processing,No,Ministry of Food Processing
+Nagaland,Naga Mircha,Kohima,245,Secondary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Ginger,Longleng,615,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Coffee,Mokokchung,246,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Tea,Mokokchung,246,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Banana,Mokokchung,246,Tertiary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Ginger,Mokokchung,246,Others,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Large Cardamom,Mon,247,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Tea,Mon,247,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Bamboo,Mon,247,Tertiary,Handicraft,No,DC Handicraft
+Nagaland,Handicraft,Mon,247,Others,Handicraft,No,DC Handicraft
+Nagaland,Banana,Niuland,764,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Yam,Niuland,764,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Rubber,Niuland,764,Tertiary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Millet,Noklak,736,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Ginger,Noklak,736,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Handicraft,Noklak,736,Tertiary,Handicraft,No,DC Handicraft
+Nagaland,Naga Mircha,Peren,613,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Handicraft,Peren,613,Secondary,Handicraft,No,DC Handicraft
+Nagaland,Kiwi,Phek,248,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Wood/Bamboo,Phek,248,Secondary,Handicraft,No,DC Handicraft
+Nagaland,Kholar (Kidney Beans),Shamator,765,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Turmeric,Tseminyu,757,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Kholar,Tuensang,249,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Anthurium,Tuensang,249,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Banana and Banana Products ,Wokha,250,Primary,Food Processing,No,Department of fisheries
+Nagaland,Ginger,Wokha,250,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Passion Fruit,Wokha,250,Tertiary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Nagaland,Soyabean,Zunheboto,251,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Terracotta,Angul,344,Primary,Handicraft,No,DC Handicraft
+Odisha,Marine Products,Balasore,345,Primary,Marine,No,Department of fisheries
+Odisha,Stone Craft,Balasore,345,Secondary,Handicraft,No,DC Handicraft
+Odisha,Handloom,Bargarh,347,Primary,Handloom,No,DC Handloom
+Odisha,Rice,Bhadrak,348,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Fish,Bhadrak,348,Secondary,Marine,No,Department of fisheries
+Odisha,Cotton,Bolangir,359,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Onion,Bolangir,359,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Berhampur Patta (Phoda Kumbha) Saree ,Boudh,349,Primary,Handloom,No,DC Handloom
+Odisha,Silver Filigree (Tarakashi Art),Cuttack,350,Primary,Handicraft,Yes,DC Handicraft
+Odisha,Handloom of Maniabandha,Cuttack,350,Secondary,Handloom,No,DC Handloom
+Odisha,Watermelon,Deogarh,351,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Orange,Deogarh,351,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Litchi,Deogarh,351,Tertiary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Handicrafts,Dhenkanal,352,Primary,Handicraft,No,DC Handicraft
+Odisha,Cashew,Dhenkanal,352,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Cashew Kernel,Gajapati,353,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Granite Slab,Gajapati,353,Secondary,Manufacturing,No,MSME
+Odisha,Turmeric Oil,Gajapati,353,Tertiary,Food Processing,No,Ministry of Food Processing
+Odisha,Handloom,Ganjam,354,Primary,Handloom,No,DC Handloom
+Odisha,Cashew,Ganjam,354,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Granite Slab,Ganjam,354,Tertiary,Manufacturing,No,MSME
+Odisha,Rice,Jagatsinghpur,355,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Marine,Jagatsinghpur,355,Secondary,Marine,No,Department of fisheries
+Odisha,Stone Carving,Jajpur,356,Primary,Handicraft,No,DC Handicraft
+Odisha,Handicraft,Jajpur,356,Secondary,Handicraft,No,DC Handicraft
+Odisha,Aluminium Ingot,Jharsuguda,357,Primary,Manufacturing,No,MSME
+Odisha,Chilly,Jharsuguda,357,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Ginger,Jharsuguda,357,Tertiary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Handicraft (Wood Carving),Kalahandi,358,Primary,Handicraft,No,DC Handicraft
+Odisha,Kandhamal Haladi,Kandhamal,358,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Odisha,Golden Grass Product,Kendrapara,360,Primary,Handicraft,No,DC Handicraft
+Odisha,Terracotta,Kendujhar (Keonjhar),361,Primary,Handicraft,NO ,DC Handicraft
+Odisha,Fish product,Khurdha,362,Primary,Marine,No,Department of fisheries
+Odisha,Handicrafts (Stone Carving),Khurda,362,Secondary,Handicraft,No,DC Handicraft
+Odisha,Handicrafts (Pattachitra),Khurda,362,Tertiary,Handicraft,Yes ,DC Handicraft
+Odisha,Handicrafts (Palm Leaf Engraving),Khurda,362,Others,Handicraft,No,DC Handicraft
+Odisha,Cashew,Koraput,363,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Millets,Malkangiri,364,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Tribal Jewellery,Malkangiri,364,Secondary,Handicraft,No,DC Handicraft
+Odisha,Turmeric,Malkangiri,364,Tertiary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Processed Fish,Malkangiri,364,Others,Marine,No,Department of fisheries
+Odisha,Rice,Mayurbhanj,365,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Maize,Nabarangpur,366,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Brass and Bell Metal,Nayagarh,367,Primary,Handicraft,No,DC Handicraft
+Odisha,Cotton,Nuapada,368,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Onion,Nuapada,368,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Orissa Pattachitra,Puri,369,Primary,Handicraft,Yes,DC Handicraft
+Odisha,Marine Products,Puri,369,Secondary,Marine,No,Department of fisheries
+Odisha,Cotton,Rayagada,370,Primary,Textile,No,Ministry of Textile
+Odisha,Tamarind,Rayagada,370,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Sambalpuri Bandha Saree,Sambalpur,371,Primary,Handloom,NO ,DC Handicraft
+Odisha,Sambalpuri Fabric Jewellery,Sambalpur,371,Tertiary,Handicraft,NO ,DC Handloom
+Odisha,Chilly,Sambalpur,371,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Odisha,Bomkai Saree & Fabrics,Sonepur (Subarnapur),372,Primary,Textile,Yes,Ministry of Textile
+Odisha,Bamboo Craft,Sundergarh,373,Primary,Handicraft,NO ,DC Handicraft
+Puducherry,Chemicals and Allied Products,Karaikal,598,Primary,Others,No,Department of Chemicals and Petrochemicals
+Puducherry,Coir Products,Mahe,599,Primary,Handicraft,No,DC Handicraft
+Puducherry,Pharmaceutical and Allied Products,Puducherry,600,Primary,Others,No,Department of Pharmaceuticals
+Puducherry,Fisheries and Allied Products,Yanam,601,Primary,Marine,No,Department of fisheries
+Punjab,Embroidery,Amritsar,27,Primary,Handloom,No,DC Handloom
+Punjab,Tourism,Amritsar,27,Secondary,Others,No,Ministry of Tourism
+Punjab,Achar-Muraba,Amritsar,27,Tertiary,Food Processing,No,Ministry of Food Processing
+Punjab,Textile-Towels,Barnala,605,Primary,Textile,No,Ministry of Textile
+Punjab,Poultry Meat & Chicken,Barnala,605,Secondary,Food Processing,No,Ministry of Food Processing
+Punjab,Citrus Fruits (Kinnow),Bathinda,28,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Punjab,Honey,Bathinda,28,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Punjab,Cotton Yarn,Bathinda,28,Tertiary,Textile,No,Ministry of Textile
+Punjab,Basmati (Rice),Faridkot,29,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Punjab,Agriculture Implements,Faridkot,29,Secondary,Manufacturing,No,MSME
+Punjab,Forged Items,Fatehgarh Sahib,30,Primary,Manufacturing,No,MSME
+Punjab,Machine parts/ Rolling Mill Machinery,Fatehgarh Sahib,30,Secondary,Manufacturing,No,MSME
+Punjab,Citrus Fruits (Kinnow),Fazilka,651,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Punjab,Basmati (Rice),Fazilka,651,Secondary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Punjab,Basmati (Rice),Ferozepur,31,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Punjab,Chillies,Ferozepur,31,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Punjab,Foundry Cluster,Gurdaspur,32,Primary,Manufacturing,No,MSME
+Punjab,Jaggery,Gurdaspur,32,Secondary,Food Processing,No,Ministry of Food Processing
+Punjab,Tractor & parts,Hoshiarpur,33,Primary,Manufacturing,No,MSME
+Punjab,Plywood/ Wood Inlay Products,Hoshiarpur,33,Secondary,Handicraft,No,DC Handicraft
+Punjab,Sports Goods,Jalandhar,34,Primary,Manufacturing,No,MSME
+Punjab,Hand Tools,Jalandhar,34,Secondary,Manufacturing,No,MSME
+Punjab,Honey,Jalandhar,34,Tertiary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Punjab,Leather,Jalandhar,34,Others,Handicraft,No,DC Handicraft
+Punjab,Diesel engine and Auto Parts,Kapurthala,35,Primary,Manufacturing,No,MSME
+Punjab,Readymade Garments,Ludhiana,36,Primary,Textile,No,Ministry of Textile
+Punjab,Engineering Goods,Ludhiana,36,Secondary,Manufacturing,No,MSME
+Punjab,Metal Casting,Malerkotla,737,Primary,Manufacturing,No,MSME
+Punjab,Embroidery,Malerkotla,737,Secondary,Handloom,No,DC Handloom
+Punjab,Cotton Yarn,Mansa,37,Primary,Textile,No,Ministry of Textile
+Punjab,Agriculture Implements,Mansa,37,Secondary,Manufacturing,No,MSME
+Punjab,Agriculture Implements,Moga,38,Primary,Manufacturing,No,MSME
+Punjab,Litchi,Pathankot,662,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Punjab,Phulkari,Patiala,41,Primary,Handloom,Yes,DC Handloom
+Punjab,Maize,Rupnagar,42,Others,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Punjab,Agriculture Implements,Rupnagar,42,Secondary ,Manufacturing,No,MSME
+Punjab,Engineering Goods,Sahibzada Ajit Singh Nagar/Mohali,608,Primary,Manufacturing,No,MSME
+Punjab,Sculptures,Sahibzada Ajit Singh Nagar/Mohali,608,Secondary,Handicraft,No,DC Handicraft
+Punjab,Pharmaceuticals/ Medical Equipment,Sahibzada Ajit Singh Nagar/Mohali,608,Tertiary,Manufacturing,No,MSME
+Punjab,Vegetable Oil,Sangrur,43,Primary,Food Processing,No,Ministry of Food Processing
+Punjab,Jaggery,Shahid Bhagat Singh Nagar (Nawanshahar),40,Primary,Food Processing,No,Ministry of Food Processing
+Punjab,Agriculture Implements,Sri Muktsar Sahib,39,Primary,Manufacturing,No,MSME
+Punjab,Basmati (Rice),Tarn Taran,609,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Punjab,Milk,Tarn Taran,609,Secondary,Dairy,No,"Ministry of Fisheries, Animal Husbandry and Dairying"
+Punjab,Pears,Tarn Taran,609,Tertiary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Rajasthan,Granite and Marble Products,Ajmer,86,Primary,Manufacturing,No,MSME
+Rajasthan,Automobile Parts,Alwar,87,Primary,Manufacturing,No,MSME
+Rajasthan,Textile Products,Balotra,775,Primary,Textile,No ,Ministry of Textile
+Rajasthan,Marble Products,Banswara,88,Primary,Manufacturing,NO ,MSME
+Rajasthan,Garlic Products,Baran,89,Primary,Agriculture,no ,Ministry of Agriculture & Farmers' Welfare
+Rajasthan,Kasheedakari,Barmer,90,Primary,Handloom,No,DC Handloom
+NULL,NULL,NULL,000,NULL,NULL,NO,NULL
+Rajasthan,Agro based Products ,Bharatpur,91,Primary,Food Processing,No,Ministry of Food Processing
+Rajasthan,Textile Products,Bhilwara,92,Primary,Textile,No,Ministry of Textile
+Rajasthan,Bikaneri  Namkeen ,Bikaner,93,Primary,Food Processing,Yes,Ministry of Food Processing
+Rajasthan,Rice,Bundi,94,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Rajasthan,Granite and Marble Products,Chittorgarh,95,Primary,Manufacturing,No,MSME
+Rajasthan,Wood Products,Churu,96,Primary,Manufacturing,No,MSME
+Rajasthan,Stone Product ,Dausa,97,Primary,Manufacturing,No,MSME
+Rajasthan, Marble & Granite?roducts,Deedwana-Kuchaman,768,Primary,Manufacturing,Yes,MSME
+NULL,NULL,NULL,000,NULL,NULL,NO,NULL
+Rajasthan,Stone based products ,Dholpur,98,Primary,Manufacturing,No,"Ministry of Fisheries, Animal Husbandry and Dairying"
+Rajasthan,Granite Products,Dungarpur,99,Primary,Manufacturing,No,MSME
+Rajasthan,Agro Based Products ,Hanumangarh,101,Primary,Agriculture,NO ,Ministry of Agriculture & Farmers' Welfare
+Rajasthan,Gems & Jewellery,Jaipur,102,Primary,Manufacturing,No,MSME
+Rajasthan,Yellow Stone Products,Jaisalmer,103,Primary,Manufacturing,No,MSME
+Rajasthan,Granite Products,Jalore,104,Primary,Manufacturing,No,MSME
+Rajasthan,Kota Stone Products,Jhalawar,105,Primary,Manufacturing,No,Department of Industries
+Rajasthan,Wooden Handicraft Products,Jhunjhunu,106,Primary,Handicraft,No,DC Handicraft
+Rajasthan,Wooden Furniture Products,Jodhpur,107,Primary,Handicraft,No,DC Handicraft
+Rajasthan,Sandstone products ,Karauli,108,Primary,Manufacturing,No,MSME
+Rajasthan,Automobiles Parts ,Khairthal-Tijara,770,Primary,Manufacturing,No ,Minstry of Heavy Industries 
+Rajasthan,Kota Doria,Kota,109,Primary,Handloom,Yes,DC Handloom
+Rajasthan,Automobiles Parts ,Kotputli-Behror,782,Primary,Manufacturing,NO ,Minstry of Heavy Industries 
+Rajasthan,Pan Meethi and Spices processing ,Nagaur,110,Primary,Food Processing,no ,Ministry of Food Processing
+Rajasthan,Textile Products,Pali,111,Primary,textile ,no ,Ministry of Textile
+Rajasthan,Sonamukhi Products,Phalodi,772,Primary,Food Processing,No ,Ministry of Food Processing
+Rajasthan,Thewa Jewellery,Pratapgarh,629,Primary,Handicraft,Yes,DC Handicraft
+Rajasthan,Granite and Marble Products,Rajsamand,112,Primary,Manufacturing,No ,Department of geology
+Rajasthan,Quartz,Salumber,777,Primary,Manufacturing,No ,Department of Industries
+Rajasthan,Marble Products ,Sawai Madhopur,113,Primary,Manufacturing,No,Department of Industries
+Rajasthan,Wooden Furniture Products,Sikar,114,Primary,Handicraft,No,DC Handicraft
+Rajasthan,Marble Products ,Sirohi,115,Primary,handicraft,No,DC Handicraft
+Rajasthan,Mustard Oil ,Sri Ganganagar,100,Primary,Food Processing,NO ,Ministry of Food Processing
+Rajasthan,Stale stone tiles,Tonk,116,Primary,Manufacturing,No,MSME
+Rajasthan,Marble and Granite products ,Udaipur,117,Primary,Manufacturing,No,MSME
+Sikkim,Tourism,East Sikkim (Gangtok),225,Primary,Others,No,Ministry of Tourism
+Sikkim,Pharma related,East Sikkim (Gangtok),225,Secondary,Others,No,Department of Pharmaceuticals
+Sikkim,Handloom and Handicraft,East Sikkim (Gangtok),225,Tertiary,Handicraft,No,DC Handicraft
+Sikkim,Buck Wheat,North Sikkim (Mangan),226,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Sikkim,Orange,North Sikkim (Mangan),226,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Sikkim,Sikkim Large Cardamom,North Sikkim (Mangan),226,Tertiary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Sikkim,Handloom and Handicraft,North Sikkim (Mangan),226,Others,Handloom,No,DC Handloom
+Sikkim,Floriculture,Pakyong,741,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Sikkim,Sikkim Large Cardamom,Pakyong,741,Secondary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Sikkim,Dalle Khursani,Pakyong,741,Tertiary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Sikkim,Handloom and Handicraft,Pakyong,741,Others,Handloom,No,DC Handloom
+Sikkim,Sikkim Large Cardamom,Soreng,742,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Sikkim,Animal Husbandry related products,Soreng,742,Secondary,Food Processing,No,Ministry of Food Processing
+Sikkim,Dalle Khursani,Soreng,742,Tertiary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Sikkim,Handloom and Handicraft,Soreng,742,Others,Handloom,No,DC Handloom
+Sikkim,Tea,South Sikkim (Namchi),227,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Sikkim,Dalle Khursani,South Sikkim (Namchi),227,Secondary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Sikkim,Handloom and Handicraft,South Sikkim (Namchi),227,Tertiary,Handloom,No,DC Handloom
+Sikkim,Tourism,West Sikkim (Geyzing),228,Primary,Others,No,Ministry of Tourism
+Sikkim,Trout Fishing,West Sikkim (Geyzing),228,Secondary,Marine,No,Department of fisheries
+Sikkim,Handloom and Handicraft,West Sikkim (Geyzing),228,Tertiary,Handloom,No,DC Handloom
+Tamil Nadu,Cashew Processing,Ariyalur,610,Primary,Food Processing,No,Ministry of Food Processing
+Tamil Nadu,Automobile products,Chengalpattu,730,Primary,Manufacturing,No,MSME
+Tamil Nadu,Engineering and Auto components,Chennai,568,Primary,Manufacturing,No,MSME
+Tamil Nadu,Motor Pumps,Coimbatore,569,Primary,Manufacturing,No,MSME
+Tamil Nadu,Cashew Nuts,Cuddalore,570,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Tamil Nadu,Ready Made Garments,Dharmapuri,571,Primary,Textile,No,Ministry of Textile
+Tamil Nadu,Auto Components,Dharampuri,571,Secondary,Manufacturing,No,MSME
+Tamil Nadu,Coir Pith Blocks,Dindigul,572,Primary,Manufacturing,No,MSME
+Tamil Nadu,Garlic,Dindigul,572,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Tamil Nadu,Dindigul Locks,Dindigul,572,Tertiary,Manufacturing,Yes,MSME
+Tamil Nadu,Handloom and Powerloom products,Erode,573,Primary,Textile,No,Ministry of Textile
+Tamil Nadu,Turmeric,Erode,573,Secondary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Tamil Nadu,Readymade Fabric,Erode,573,Tertiary,Textile,No,Ministry of Textile
+Tamil Nadu,Food products - Rice,Kallakurichi,729,Primary,Food Processing,No,Ministry of Food Processing
+Tamil Nadu,Textiles and Garments,Kancheepuram,574,Primary,Textile,No,Ministry of Textile
+Tamil Nadu,Kancheepuram Silk,Kancheepuram,574,Secondary,Handloom,Yes,DC Handloom
+Tamil Nadu,Cashew,Kanyakumari,575,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Tamil Nadu,Textiles - Home Made Ups,Karur,576,Primary,Textile,No,Ministry of Textile
+Tamil Nadu,Mango Processing,Krishnagiri,577,Primary,Food Processing,No,Ministry of Food Processing
+Tamil Nadu,Ready Made Garments,Madurai,578,Primary,Textile,No,Ministry of Textile
+Tamil Nadu,Rice,Mayiladuthurai,735,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Tamil Nadu,Coconut,Mayiladuthurai,735,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Tamil Nadu,Marine food,Nagapattinam,579,Primary,Marine,UNKNOWN, safety
+Tamil Nadu,Nilgiri Tea (Orthodox),Nilgiris,587,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Tamil Nadu,Handicraft Products,Perambalur,581,Secondary,Handicraft,No,DC Handicraft
+Tamil Nadu,Maize,Perambalur,581,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Tamil Nadu,Engineering Products,Pudukkottai,582,Primary,Manufacturing,No,MSME
+Tamil Nadu,Cashew,Pudukkottai,582,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Tamil Nadu,Marine Foods,Ramnad (Ramanathapuram),583,Primary,Marine,No,Department of fisheries
+Tamil Nadu,Dry Fish,Ramnad (Ramanathapuram),583,Secondary,Marine,No,Department of fisheries
+Tamil Nadu,Leather Products,Ranipet,731,Primary,Handicraft,Yes,DC Handicraft
+Tamil Nadu,Silver Jewellery,Salem,584,Primary,Handicraft,No,DC Handicraft
+Tamil Nadu,Salem Silk,Salem,584,Secondary,Handicraft,Yes,DC Handicraft
+Tamil Nadu,Coir Products,Sivagangai,585,Primary,Handicraft,No,DC Handicraft
+Tamil Nadu,Gherjubs (Miniature Cucumber),Sivagangai,585,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Tamil Nadu,Coir pith block,Tenkasi,733,Primary,Handicraft,No,DC Handicraft
+Tamil Nadu,Coconut,Thanjavur,586,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Tamil Nadu,Handicraft & handloom,Thanjavur,586,Secondary,Handicraft,Yes,DC Handicraft
+Tamil Nadu,Textile Made ups,Theni,588,Primary,Textile,No,Ministry of Textile
+Tamil Nadu,Banana,Theni,588,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Tamil Nadu,Engineering and Auto components,Thiruvallur,589,Primary,Manufacturing,No,MSME
+Tamil Nadu,Engineering Tools and Electronics,Thiruvallur,589,Secondary,Manufacturing,No,MSME
+Tamil Nadu,Agricultural Products,Thiruvarur,590,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Tamil Nadu,Engineering Products,Tiruchi (Thiruchirappalli),591,Primary,Manufacturing,No,MSME
+Tamil Nadu,Leather Products,Tiruchi (Thiruchirappalli),591,Secondary,Handicraft,Yes,DC Handicraft
+Tamil Nadu,Readymade Garments,Tirunelveli,592,Primary,Textile,No,Ministry of Textile
+Tamil Nadu,Leather products,Tirupathur,732,Primary,Handicraft,Yes,DC Handicraft
+Tamil Nadu,Hosiery Garments,Tiruppur,634,Primary,Textile,No,Ministry of Textile
+Tamil Nadu,Edible Oil,Tiruvannamalai,593,Primary,Food Processing,No,Ministry of Food Processing
+Tamil Nadu,Marine Foods,Tuticorin (Thoothukudi),594,Primary,Marine,No,Department of fisheries
+Tamil Nadu,Leather Products,Vellore,595,Primary,Handicraft,Yes,DC Handicraft
+Tamil Nadu,Rice,Villupuram,596,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Tamil Nadu,Gauze Cloth,Virudhunagar,597,Primary,Textile,No,Ministry of Textile
+Tamil Nadu,Sivakasi Crackers,Virudhunagar,597,Secondary,Manufacturing,No,MSME
+Telangana,Cotton Bales,Adilabad,501,Primary,Textile,No,Ministry of Textile
+Telangana,Chillies,Bhadradri Kothagudem,690,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Telangana,Studded gold jewllery,Hyderabad,507,Primary,Manufacturing,No,MSME
+Telangana,Mango,Jagtial,681,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Telangana,Brass Artifacts,Jangaon,689,Primary,Handicraft,No,DC Handicrafts
+Telangana,Chillies,Jayashanker Bhupalpally,687,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Telangana,Nuts - Groundnut,Jogulamba Gadwal,695,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Telangana,Soyabean,Kamareddy,685,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Telangana,Granites,Karimnagar,508,Primary,Manufacturing,No,MSME
+Telangana,Silverfiligree,Karimnager,508,Secondary,Handicraft,Yes,DC Handicraft
+Telangana,Chillies,Khammam,509,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Telangana,Granite,Khammam,509,Secondary,Manufacturing,No,MSME
+Telangana,Millets,Kumaram Bheem Asifabad,699,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Telangana,Mango (Banaganapalle),Mahabubnager,512,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Telangana,Mango,Mancherial,684,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Telangana,Tomato processed products,Medak,513,Primary,Food Processing,No,Ministry of Food Processing
+Telangana,Pharmaceuticals & Biotech Products,Medchal-Malkajgiri,700,Primary,Manufacturing,No,MSME
+Telangana,Chillies,Mhabubabad,688,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Telangana,Chilli,Mulugu,720,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Telangana,Banaganapalle Mangoes,Nagarkurnool,694,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Telangana,Cotton,Nalgonda,514,Primary,Textile,No,Ministry of Textile
+Telangana,Narayanpet Handloom Sarees,Narayanpet,721,Primary,Textile,Yes,Ministry of Textile
+Telangana,Custard Apple (Pulp),Narayanpet,721,Secondary,Food Processing,No,Ministry of Food Processing
+Telangana,Cotton Bales,Nirmal,680,Primary,Textile,No,Ministry of Textile
+Telangana,Turmeric,Nizamabad,516,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Telangana,Rice based products,Peddapalli,682,Primary,Food Processing,No,Ministry of Food Processing
+Telangana,Fisheries,Rajanna Sircilla,683,Primary,Marine,No,Department of fisheries
+Telangana,Biscuits & Confectionery,Ranga Reddy,518,Primary,Food Processing,No,Ministry of Food Processing
+Telangana,Engineering Products,Sangareddy,691,Primary,Manufacturing,No,MSME
+Telangana,Siddipet Gollabama,Siddipet,692,Primary,Handloom,Yes,DC Handloom
+Telangana,Cheriyal Paintings,Siddipet,692,Secondary,Handicraft,Yes,DC Handicraft
+Telangana,Cement,Suryapet,696,Primary,Manufacturing,No,MSME
+Telangana,Fullers Earth/Betonitte granules and powder,Vikarabad,698,Primary,Manufacturing,No,MSME
+Telangana,Nuts - Groundnut,Wanaparthy,693,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Telangana,Warangal Durries,Warangal Rural,522,Primary,Handicraft,Yes,DC Handicraft
+Telangana,Granite Slabs,Warangal Urban (Hanumakonda),522,Primary,Manufacturing,No,MSME
+Telangana,Pochampalli Ikat,Yadadri Bhuvanagiri,697,Primary,Handloom,No,DC Handloom
+Tripura,Queen Pineapple and Pineapple Based Products,Dhalai,269,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Tripura,Risha ,Gomati,654,Primary,Handloom,Yes,DC Handloom
+Tripura,Matabari Pera,Gomati,654,Secondary,Food Processing,Yes,Ministry of Food Processing
+Tripura,Scented Rice ,Khowai,652,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Tripura,Oil - Agar,North Tripura,270,Primary,Food Processing,No,Ministry of Food Processing
+Tripura,Tripura Silk,Sepahijala,653,Primary,Textile,no ,Ministry of Textiles
+Tripura,Wood and Bamboo based Handicraft Items,Sepahijala,653,Secondary,Handicraft,no,DC Handicraft
+Tripura,Cashew Nut,South Tripura,271,Primary,Agriculture,yes ,Ministry of Agriculture & Farmers' Welfare
+Tripura,Tea ,Unakoti,655,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Tripura,Bamboo based products,West Tripura,272,Primary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Leather Products,Agra,118,Primary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,Handicrafts- Stone & Marble,Agra,118,Secondary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Lock & Hardware ,Aligarh,119,Primary,Manufacturing,Yes,MSME
+Uttar Pradesh,Metal Handicraft,Aligarh,119,Secondary,Handicraft,no ,DC Handicraft
+Uttar Pradesh,Textiles,Ambedkar Nagar,121,Primary,Textile,No,Ministry of Textile
+Uttar Pradesh,Moonj products,Amethi,640,Primary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,Food Processing,Amethi,640,Secondary,Food Processing,No,Ministry of Food Processing
+Uttar Pradesh,Musical Instruments (Dholak),Amroha,154,Primary,Manufacturing,Yes,MSME
+Uttar Pradesh,Readymade Garments,Amroha,154,Secondary,Textile,No,Ministry of Textile
+Uttar Pradesh,Milk Processing (Desi Ghee) and Milk Products,Auraiya,122,Primary,Dairy,No,"Ministry of Fisheries, Animal Husbandry and Dairying"
+Uttar Pradesh,Jaggery,Ayodhya (Faizabad),140,Primary,Food Processing,No,Ministry of Food Processing
+Uttar Pradesh,Black Pottery,Azamgarh,123,Primary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,Textile Products (Reshmi Sari),Azamgarh,123,Secondary,Handloom,No,DC Handloom
+Uttar Pradesh,Home Decorative Goods,Baghpat,124,Primary,Manufacturing,Yes,MSME
+Uttar Pradesh,Wheat Stalk Handicrafts,Bahraich,125,Primary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Food Processing,Bahraich,125,Secondary,Food Processing,No,Ministry of Food Processing
+Uttar Pradesh,Bindi (Tikuli),Ballia,126,Primary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Food Processing (Pulses),Balrampur,127,Primary,Food Processing,No,Ministry of Food Processing
+Uttar Pradesh,Shazar Stone Craft,Banda,128,Primary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,Handloom Products and Textile Products,Barabanki,129,Primary,Textile,Yes,Ministry of Textile
+Uttar Pradesh,Zari and Zardozi,Bareilly,130,Primary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,Bamboo Products,Bareilly,130,Secondary,Handicraft,Yes,DC Handicrafts
+Uttar Pradesh,Goldsmith Industry,Bareilly,130,Tertiary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Wooden Crafts,Basti,131,Primary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Vinegar Products,Basti,131,Secondary,Food Processing,No,Ministry of Food Processing
+Uttar Pradesh,Handmade carpet of Bhadohi,Bhadohi,179,Primary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,Wooden Crafts,Bijnor,132,Primary,Handicraft,Yes,DC handicraft
+Uttar Pradesh,Zari and Zardozi,Budaun,133,Primary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Ceramic Product,Bulandshahar,134,Primary,Handicraft,Yes,DC handicraft
+Uttar Pradesh,Zari-Zardozi,Chandauli,135,Primary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Black Rice,Chandauli,135,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Uttar Pradesh,Wooden Toys and Wood Art Products,Chitrakoot,136,Primary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,"Decorative Products, ",Deoria,137,Primary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Embroidery and Weaving (Knitting) Products,Deoria,137,Secondary,handlooms,No,DC Handloom
+Uttar Pradesh,Readymade Garments,Deoria,137,Tertiary,Textile,No,Ministry of Textile
+Uttar Pradesh,"Ankle Bells (Ghungroo), Bells and Brass Products",Etah,138,Primary,Handicraft,No,DC handicraft
+Uttar Pradesh,Textile Products and Tailoring and Garment Embroidery,Etawah,139,Primary,Textile,No,Ministry of Textile
+Uttar Pradesh,Farrukhabad Prints,Farrukhabad,141,Primary,Textile,Yes,Ministry of Textile
+Uttar Pradesh,Zari Zardozi,Farrukhabad,141,Secondary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Bedsheets,Fatehpur,142,Primary,Textile,No,Ministry of Textile
+Uttar Pradesh,Iron Fabrication Work,Fatehpur,142,Secondary,Manufacturing,No,MSME
+Uttar Pradesh,Firozabad Glass,Firozabad,143,Primary,Manufacturing,Yes,MSME
+Uttar Pradesh,Readymade Garments,Gautam Buddh Nagar,144,Primary,Textile,No,Ministry of Textile
+Uttar Pradesh,Engineering goods,Ghaziabad,145,Primary,Manufacturing,No,MSME
+Uttar Pradesh,Ghazipur Wall Hangings,Ghazipur,146,Primary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,Food Processing (Pulses),Gonda,147,Primary,Food Processing,No,Ministry of Food Processing
+Uttar Pradesh,Gorakhpur Terracotta,Gorakhpur,148,Primary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,Readymade Garments,Gorakhpur,148,Secondary,Textile,No,Ministry of Textile
+Uttar Pradesh,Shoes,Hamirpur,149,Primary,Manufacturing,No,MSME
+Uttar Pradesh,Home Decorative Goods,Hapur,661,Primary,Textile,No,Ministry of Textile
+Uttar Pradesh,Handloom,Hardoi,150,Primary,Handloom,No,DC Handloom
+Uttar Pradesh,Hing (Asafoetida),Hathras,163,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+Uttar Pradesh,Ready Made Garments,Hathras,163,Secondary,Textile,No,Ministry of Textile
+Uttar Pradesh,Handmade Paper Art,Jalaun,151,Primary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,Peas Processing,Jalaun,151,Secondary,Food Processing,No,Ministry of Food Processing
+Uttar Pradesh,Woollen Carpets (Dari),Jaunpur,152,Primary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Soft Toys,Jhansi,153,Primary,Manufacturing,No,MSME
+Uttar Pradesh,Textile Products,Jhansi,153,Secondary,Textile,No,Ministry of Textile
+Uttar Pradesh,Kannauj Perfume,Kannauj,155,Primary,Manufacturing,Yes,MSME
+Uttar Pradesh,Zinc Utensils,Kanpur Dehat,156,Primary,Manufacturing,No,MSME
+Uttar Pradesh,Plastic Products,Kanpur Dehat,156,Secondary,Manufacturing,No,MSME
+Uttar Pradesh,Leather Products,Kanpur Nagar,157,Primary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,Hosiery and Textile Products,Kanpur Nagar,157,Secondary,Textile,No,Ministry of Textile
+Uttar Pradesh,Zari Zardozi,Kasganj,633,Primary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Food Processing- Banana,Kaushambi,158,Primary,Food Processing,No,Ministry of Food Processing
+Uttar Pradesh,Banana Fiber Products and Banana Products,Kushinagar,160,Primary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Tribal craft,Lakhimpur Kheri,159,Primary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Jaggery Products,Lakhimpur Kheri,159,Secondary,Food Processing,No,Ministry of Food Processing
+Uttar Pradesh,Zari Silk Sarees,Lalitpur,161,Primary,Handloom,No,DC Handloom
+Uttar Pradesh,Food Processing,Lalitpur,161,Secondary,Food Processing,No,Ministry of Food Processing
+Uttar Pradesh,School Dress (Readymade Garments/Hosiery),Lalitpur,161,Tertiary,Textile,No,Ministry of Textile
+Uttar Pradesh,Lucknow Chikan Craft & Lucknow Zardozi,Lucknow,162,Primary,Textile,Yes,Ministry of Textile
+Uttar Pradesh,Furniture,Maharajganj,164,Primary,Manufacturing,No,MSME
+Uttar Pradesh,Gaura Stone Craft,Mahoba,165,Primary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,Tarkashi Art,Mainpuri,166,Primary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,Textile sewing,Mainpuri,166,Secondary,Manufacturing,No,MSME
+Uttar Pradesh,Zari Zardozi,Mainpuri,166,Tertiary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Sanitary Fittings,Mathura,167,Primary,Manufacturing,No,MSME
+Uttar Pradesh,Costume of Thakurji,Mathura,167,Secondary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Shrinagar Sculpture and Kanthi Mala,Mathura,167,Tertiary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Powerloom Textile,Mau,168,Primary,Textile,No,Ministry of Textile
+Uttar Pradesh,Sports Products,Meerut,169,Primary,Manufacturing,No,MSME
+Uttar Pradesh,Carpets,Mirzapur,170,Primary,Textile,Yes,Ministry of Textiles
+Uttar Pradesh,Metal Industry (Brass),Mirzapur,170,Secondary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,Moradabad Metal Craft,Moradabad,171,Primary,Manufacturing,No,MSME
+Uttar Pradesh,Jaggery,Muzaffarnagar,172,Primary,Food Processing,Yes,Ministry of Food Processing
+Uttar Pradesh,Flute and Wooden Products,Pilibhit,173,Primary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,Aamla Products,Pratapgarh,174,Primary,Food Processing,Yes,Ministry of Food Processing
+Uttar Pradesh,Moonj products,Prayagraj,120,Primary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,Food Processing,Prayagraj,120,Secondary,Food Processing,No,Ministry of Food Processing
+Uttar Pradesh,Wood Work,Raebareli,175,Primary,Handicraft,No,DC Handicraft
+Uttar Pradesh,"Applique Work along with Patch Work,Zari Patch work, and Mentha",Rampur,176,Primary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,Saharanpur Wood Craft,Saharanpur,177,Primary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,Handicrafts - Horn Bone,Sambhal,659,Primary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Brass Utensils,Sant Kabir Nagar,178,Primary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,Hosiery Products,Sant Kabir Nagar,178,Secondary,Textile,No,Ministry of Textile
+Uttar Pradesh,Zari and Zardozi,Shahjahanpur,180,Primary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Rim and Axle and Iron Work,Shamli,660,Primary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Tribal craft and Furniture,Shravasti,181,Primary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Kalanamak Rice,Siddharthnagar,182,Primary,Food Processing,Yes,Ministry of Food Processing
+Uttar Pradesh,Carpets (Dari),Sitapur,183,Primary,Textile,No,Ministry of Textile
+Uttar Pradesh,Carpets,Sonbhadra,184,Primary,Textile,No,Ministry of Textile
+Uttar Pradesh,Moonj Products,Sultanpur,185,Primary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,Iron and Steel Fabrication,Sultanpur,185,Secondary,Manufacturing,No,MSME
+Uttar Pradesh,Zari Zardozi,Unnao,186,Primary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Leather Products,Unnao,186,Secondary,Handicraft,No,DC Handicraft
+Uttar Pradesh,Silk Products,Varanasi,187,Primary,Textile,Yes,Ministry of Textile
+Uttar Pradesh,Pink Enamel (Gulaabi Minakari),Varanasi,187,Secondary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,Wooden Lacquer Ware,Varanasi,187,Tertiary,Handicraft,Yes,DC Handicraft
+Uttar Pradesh,Toys,Varanasi,187,Others,Handicraft,No,DC Handicraft
+Uttarakhand,Bal Mithai,Almora,45,Primary,Food Processing,No,Ministry of Food Processing
+Uttarakhand,Copper based Products,Bageshwar,46,Primary,Handicraft,No,DC Handicraft
+Uttarakhand,Nettle based product,Chamoli,47,Primary,Food Processing,No,Ministry of Food Processing
+Uttarakhand,Himalyan Honey,Champawat,48,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Uttarakhand,Bakery,Dehradun,49,Primary,Food Processing,No,Ministry of Food Processing
+Uttarakhand,Jaggery,Haridwar,50,Primary,Food Processing,No,Ministry of Food Processing
+Uttarakhand, Aipan Products,Nainital,51,Primary,Handicraft,Yes,DC Handicraft
+Uttarakhand,Herbal Products,Pauri Garhwal,52,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+Uttarakhand,Woollen Product,Pithoragarh,53,Primary,Handloom,No,DC Handloom
+Uttarakhand,Wood crafts/Temple imitiation,Rudraprayag,54,Primary,Handicraft,Yes,DC Handicraft
+Uttarakhand,Natural fibre,Tehri Garhwal,55,Primary,Textile,No,Ministry of Textile
+Uttarakhand,Moonj Grass product,Udham Singh Nagar,56,Primary,Handicraft,No,DC Handicraft
+Uttarakhand,Red Rice,Uttarkashi,57,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+West Bengal,Wooden Furniture,Alipurduar,664,Primary,Handicraft,No,DC Handicraft
+West Bengal,Plywood & Allied Products,Alipurduar,664,Secondary,Manufacturing,No,MSME
+West Bengal,Steel Furniture,Alipurduar,664,Tertiary,Manufacturing,No,MSME
+West Bengal, Terracotta Craft,Bankura,305,Primary,Handicraft,Yes,DC Handicraft
+West Bengal,Bengal Dokra,Bankura,305,Secondary,Handicraft,Yes,DC Handicraft
+West Bengal,Baluchari ,Bankura,305,Tertiary,Handloom,Yes,DC Handloom
+West Bengal,Santiniketan Leather goods,Birbhum,307,Primary,Handicraft,Yes,DC Handicraft
+West Bengal,Nakshi Kantha,Birbhum,307,Secondary,Handloom,Yes,DC Handloom
+West Bengal,Sital pati & its products,Cooch Behar,308,Primary,Handicraft,No,DC Handicraft
+West Bengal,Mekhla dress materials,Cooch Behar,308,Secondary,Handloom,No,DC Handloom
+West Bengal,Wooden Mask & Wall Hanging,Dakshin Dinajpur,310,Primary,Handicraft,Yes,DC Handicraft
+West Bengal,Bamboo Craft,Dakshin Dinajpur,310,Secondary,Handicraft,No,DC Handicraft
+West Bengal,Darjeeling Tea,Darjeeling,309,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+West Bengal,Orange,Darjeeling,309,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+West Bengal,Darjeeling Honey,Darjeeling,309,Tertiary,Food Processing,No,Ministry of Food Processing
+West Bengal,Dhaniakhali Saree,Hooghly,312,Primary,Handloom,Yes,DC Handloom
+West Bengal,Costume Jewellery,Hooghly,312,Secondary,Handicraft,No,DC Handicraft
+West Bengal,Chikan Embroidery,Hooghly,312,Tertiary,Handloom,No,DC Handloom
+West Bengal,Gems & Jewellery,Howrah,312,Primary,Handicraft,No,DC Handicraft
+West Bengal,Engineering Goods,Howrah,313,Secondary,Manufacturing,No,MSME
+West Bengal,Tea,Jalpaiguri,314,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+West Bengal,Cane Furniture,Jalpaiguri,314,Secondary,Manufacturing,No,MSME
+West Bengal,Wood Carving,Jalpaiguri,314,Tertiary,Handicraft,No,DC Handicraft
+West Bengal,Sal leaf based products,Jhargram,703,Primary,Handicraft,No,DC Handicraft
+West Bengal,Sabai grass-based handicraft,Jhargram,703,Secondary,Handicraft,No,DC Handicraft
+West Bengal,Orchid & Flowers,Kalimpong,702,Primary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+West Bengal,Large Cardamom,Kalimpong,702,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+West Bengal,Leather goods,Kolkata,315,Primary,Handicraft,No,DC Handicraft
+West Bengal,Kids wear/ Readymade Garments,Kolkata,315,Secondary,Textile,No,Ministry of Textile
+West Bengal,Silk and Silk products,Malda,316,Primary,Textile,No,Ministry of Textile
+West Bengal,Makhana,Malda,316,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+West Bengal,Mango and its processed products,Malda,316,Tertiary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+West Bengal,Murshidabad Silk Saree/Scarf,Murshidabad,319,Primary,Handloom,No,DC Handloom
+West Bengal,Mango and its processed products,Murshidabad,319,Secondary,Agriculture,No,Ministry of Agriculture & Farmers' Welfare
+West Bengal,"Tangail, Jamdani Saree & Shantipore Saree",Nadia,320,Primary,Handloom,Yes,DC Handloom
+West Bengal,Clay Doll,Nadia,320,Secondary,Handicraft,No,DC Handicraft
+West Bengal,Steel Furniture,North 24 Parganas,303,Primary,Manufacturing,No,MSME
+West Bengal,Jute diversified products,North 24 Parganas,303,Secondary,Handicraft,No,DC Handicraft
+West Bengal,Jewellery Box,North 24 Parganas,303,Tertiary,Handicraft,No,DC Handicraft
+West Bengal,Refractory bricks & similar refractory ceramics,Paschim Bardhaman,704,Primary,Manufacturing,No,MSME
+West Bengal,Bengal Patachitra,Paschim Medinipur  (West Medinipur),318,Primary,Handicraft,Yes,DC Handicraft
+West Bengal,Madur (Mat) & Mat products,Paschim Medinipur  (West Medinipur),318,Secondary,Handicraft,Yes,DC Handicraft
+West Bengal,Fabricated Steel Products,Paschim Medinipur  (West Medinipur),318,Tertiary,Manufacturing,No,MSME
+West Bengal,Bengal Dokra,Purba Bardhaman,306,Primary,Handicraft,Yes,DC Handicraft
+West Bengal,Rice Bran Oil & De-oiled Rice Bran,Purba Bardhaman,306,Secondary,Food Processing,No,Ministry of Food Processing
+West Bengal,"Tangail, Jamdani Saree",Purba Bardhaman,306,Tertiary,Handloom,Yes,DC Handloom
+West Bengal,Bardhaman Sitabhog - Mihidana,Purba Bardhaman,306,Others,Food Processing,Yes,Ministry of Food Processing
+West Bengal,Processed cashew nuts,Purba Medinipur (East Medinipur),317,Primary,Food Processing,No,Ministry of Food Processing
+West Bengal,Bengal Patachitra,Purba Medinipur (East Medinipur),317,Secondary,Handicraft,Yes,DC Handicraft
+West Bengal,Human Hair (washed),Purba Medinipur (East Medinipur),317,Tertiary,Others,No,MSME
+West Bengal,Marine Products,Purba Medinipur (East Medinipur),317,Others,Marine,No,Department of fisheries
+West Bengal,Lac & Lac Products,Purulia,321,Primary,Handicraft,No,DC Handicraft
+West Bengal,Purulia Chau Mask,Purulia,321,Secondary,Handicraft,Yes,DC Handicraft
+West Bengal,Leather Goods,South 24 Parganas,304,Primary,Handicraft,No,DC Handicraft
+West Bengal,Marine Products,South 24 Parganas,304,Secondary,Marine,No,Department of fisheries
+West Bengal,Sundarban Honey,South 24 Parganas,304,Tertiary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+West Bengal,Tulai Panji Rice (Aromatic Rice),Uttar Dinajpur (North Dinajpur),311,Primary,Agriculture,Yes,Ministry of Agriculture & Farmers' Welfare
+West Bengal,Jute diversified products,Uttar Dinajpur (North Dinajpur),311,Secondary,Handicraft,No,DC Handicraft
